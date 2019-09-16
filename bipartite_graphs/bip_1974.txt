@@ -1,1138 +1,1138 @@
-m3z3 10.1103/PhysRevD.9.63 {'id': '0'}
-10.1103/PhysRevB.2.8 h2m3 {'id': '1'}
-l2n1 10.1103/PhysRevLett.30.906 {'id': '2'}
-10.1103/PhysRevB.4.2071 u3q3 {'id': '3'}
-10.1103/PhysRevB.4.2071 x5t2 {'id': '4'}
-s6d3 10.1103/PhysRevB.7.4291 {'id': '5'}
-10.1103/PhysRevC.9.336 b6k1 {'id': '6'}
-10.1103/PhysRevC.9.336 n6m2 {'id': '7'}
-10.1103/PhysRevC.9.336 f2k3 {'id': '8'}
-10.1103/PhysRevD.10.1366 t6l3 {'id': '9'}
-10.1103/PhysRevD.10.1366 r2e3 {'id': '10'}
-10.1103/PhysRevD.10.2849 a1c3 {'id': '11'}
-10.1103/PhysRevD.10.2849 z3d3 {'id': '12'}
-r5e3 10.1103/PhysRevA.7.1001 {'id': '13'}
-h2m3 10.1103/PhysRevB.2.1405 {'id': '448'}
-10.1103/PhysRevD.2.278 s3l2 {'id': '14'}
-l4s1 10.1103/PhysRevC.3.1466 {'id': '15'}
-10.1103/PhysRevB.10.283 c1g1 {'id': '16'}
-10.1103/PhysRevB.10.283 b4z1 {'id': '17'}
-h5e2 10.1103/PhysRevB.5.3909 {'id': '289'}
-h5e2 10.1103/PhysRevB.7.868 {'id': '290'}
-10.1103/PhysRevA.10.1188 z4t3 {'id': '20'}
-10.1103/PhysRevA.10.1188 j6h3 {'id': '21'}
-e4c1 10.1103/PhysRevC.6.2304 {'id': '22'}
-10.1103/PhysRevD.4.267 y3l2 {'id': '23'}
-10.1103/PhysRevC.6.1789 n5t1 {'id': '25'}
-10.1103/PhysRevC.6.1789 p3q2 {'id': '26'}
-10.1103/PhysRevC.6.2177 y3h2 {'id': '27'}
-10.1103/PhysRevB.1.2243 t3q2 {'id': '28'}
-w4d2 10.1103/PhysRevB.10.3412 {'id': '29'}
-f4y2 10.1103/PhysRevD.9.2068 {'id': '34'}
-f4y2 10.1103/PhysRevD.8.249 {'id': '35'}
-f4y2 10.1103/PhysRevLett.26.1609 {'id': '36'}
-f4y2 10.1103/PhysRevD.8.2939 {'id': '37'}
-10.1103/PhysRevB.8.2982 e3y3 {'id': '32'}
-10.1103/PhysRevB.8.2982 v2k3 {'id': '33'}
-v2t3 10.1103/PhysRevA.8.236 {'id': '38'}
-10.1103/PhysRevA.1.1772 j1a3 {'id': '39'}
-10.1103/PhysRevB.8.5563 u3q3 {'id': '40'}
-10.1103/PhysRevB.8.5563 w1f1 {'id': '41'}
-v3t1 10.1103/PhysRevB.7.5000 {'id': '42'}
-d2g1 10.1103/PhysRevB.8.3769 {'id': '44'}
-d2g1 10.1103/PhysRevB.10.1113 {'id': '45'}
-10.1103/PhysRevD.10.1619 e1f2 {'id': '46'}
-10.1103/PhysRevD.10.1619 k3w2 {'id': '47'}
-a6o3 10.1103/PhysRevD.1.358 {'id': '48'}
-10.1103/PhysRevA.3.1666 o4k3 {'id': '49'}
-10.1103/PhysRevA.3.1666 h1m3 {'id': '50'}
-10.1103/PhysRevA.3.1666 v1o1 {'id': '51'}
-y1d1 10.1103/PhysRevB.6.4081 {'id': '52'}
-y1d1 10.1103/PhysRevB.4.1005 {'id': '53'}
-y1d1 10.1103/PhysRevB.9.2000 {'id': '54'}
-y1d1 10.1103/PhysRevB.10.4485 {'id': '55'}
-y1d1 10.1103/PhysRevB.2.2543 {'id': '56'}
-x1c1 10.1103/PhysRevC.5.911 {'id': '57'}
-10.1103/PhysRevB.7.2378 o3p1 {'id': '58'}
-10.1103/PhysRevB.7.2378 w6z1 {'id': '59'}
-10.1103/PhysRevB.7.2378 u4z2 {'id': '60'}
-d6l3 10.1103/PhysRevC.8.2277 {'id': '61'}
-10.1103/PhysRevA.2.2159 k2t3 {'id': '62'}
-c5u1 10.1103/PhysRevB.9.2073 {'id': '63'}
-10.1103/PhysRevC.6.866 b2e2 {'id': '64'}
-10.1103/PhysRevC.6.866 k3v1 {'id': '65'}
-10.1103/PhysRevB.8.1397 o3p1 {'id': '66'}
-10.1103/PhysRevB.8.1397 u4z2 {'id': '67'}
-10.1103/PhysRevD.2.1934 m3w1 {'id': '68'}
-10.1103/PhysRevD.2.1934 e1z2 {'id': '69'}
-10.1103/PhysRevD.2.1934 y2p2 {'id': '70'}
-10.1103/PhysRevA.4.1705 p3v1 {'id': '71'}
-10.1103/PhysRevA.4.1705 w4l1 {'id': '72'}
-10.1103/PhysRevA.4.1705 n4y2 {'id': '73'}
-m2f1 10.1103/PhysRevC.7.1010 {'id': '74'}
-m2f1 10.1103/PhysRevC.8.1167 {'id': '75'}
-y6e2 10.1103/PhysRevC.6.34 {'id': '76'}
-10.1103/PhysRevB.7.2876 x5t2 {'id': '77'}
-j6j1 10.1103/PhysRevB.8.593 {'id': '78'}
-10.1103/PhysRevLett.27.439 p5u1 {'id': '79'}
-10.1103/PhysRevB.7.2872 o1h1 {'id': '80'}
-10.1103/PhysRevB.10.3518 a2a3 {'id': '421'}
-10.1103/PhysRevB.10.3518 z5s1 {'id': '684'}
-t4r2 10.1103/PhysRevD.10.2396 {'id': '81'}
-10.1103/PhysRevB.10.872 k6e2 {'id': '82'}
-p4j1 10.1103/PhysRevA.8.3259 {'id': '83'}
-p4j1 10.1103/PhysRevD.10.3044 {'id': '84'}
-p4j1 10.1103/PhysRevD.10.290 {'id': '85'}
-o2c3 10.1103/PhysRevD.10.3826 {'id': '86'}
-10.1103/PhysRevB.7.2879 u3q3 {'id': '87'}
-10.1103/PhysRevB.7.2879 x5t2 {'id': '88'}
-10.1103/PhysRevB.5.2325 s4z3 {'id': '90'}
-10.1103/PhysRevB.5.2325 x5x1 {'id': '91'}
-10.1103/PhysRevB.5.2325 g6l1 {'id': '92'}
-j1a3 10.1103/PhysRevA.5.1846 {'id': '93'}
-j1a3 10.1103/PhysRevA.7.319 {'id': '94'}
-j1a3 10.1103/PhysRevA.5.1558 {'id': '95'}
-10.1103/PhysRevA.2.2568 x2a1 {'id': '96'}
-10.1103/PhysRevA.2.2568 n2k3 {'id': '97'}
-d4g1 10.1103/PhysRevB.9.703 {'id': '98'}
-10.1103/PhysRevLett.33.709 c3p3 {'id': '99'}
-k4p3 10.1103/PhysRevA.6.850 {'id': '100'}
-k4p3 10.1103/PhysRevA.5.1565 {'id': '101'}
-k4p3 10.1103/PhysRevA.4.2076 {'id': '102'}
-10.1103/PhysRevC.3.1877 l6m2 {'id': '103'}
-l2a3 10.1103/PhysRevB.10.1847 {'id': '104'}
-10.1103/PhysRevD.3.1755 u3n3 {'id': '105'}
-a4y1 10.1103/PhysRevD.6.3641 {'id': '106'}
-s2f3 10.1103/PhysRevD.1.1445 {'id': '107'}
-10.1103/PhysRevB.3.1141 o4f3 {'id': '108'}
-10.1103/PhysRevB.3.1141 h4w2 {'id': '109'}
-10.1103/PhysRevB.9.2000 c6r2 {'id': '110'}
-r6q2 10.1103/PhysRevC.5.1860 {'id': '111'}
-r6q2 10.1103/PhysRevC.2.2106 {'id': '112'}
-r6q2 10.1103/PhysRevC.10.418 {'id': '113'}
-r6q1 10.1103/PhysRevA.7.1001 {'id': '114'}
-e3h1 10.1103/PhysRevD.8.3706 {'id': '115'}
-10.1103/PhysRevB.8.1499 e1e1 {'id': '116'}
-10.1103/PhysRevB.8.1499 n1s3 {'id': '117'}
-10.1103/PhysRevB.8.1499 h1u3 {'id': '118'}
-a2f1 10.1103/PhysRevC.7.840 {'id': '119'}
-k6q3 10.1103/PhysRevA.7.1912 {'id': '120'}
-10.1103/PhysRevB.8.3769 x2j1 {'id': '121'}
-10.1103/PhysRevB.8.3769 l1k2 {'id': '122'}
-10.1103/PhysRevD.7.2252 d6t2 {'id': '123'}
-x4v2 10.1103/PhysRevB.7.80 {'id': '124'}
-x4v2 10.1103/PhysRevB.3.1649 {'id': '125'}
-10.1103/PhysRevLett.27.242 m3w3 {'id': '126'}
-10.1103/PhysRevLett.27.242 t2q3 {'id': '127'}
-10.1103/PhysRevB.7.4739 t5z3 {'id': '128'}
-10.1103/PhysRevB.8.4668 k6h2 {'id': '129'}
-10.1103/PhysRevB.8.4668 x2z2 {'id': '130'}
-10.1103/PhysRevB.8.4668 g1f1 {'id': '131'}
-10.1103/PhysRevB.8.4668 o3a3 {'id': '132'}
-10.1103/PhysRevB.10.1564 h6f3 {'id': '1012'}
-10.1103/PhysRevB.10.1564 w5k3 {'id': '587'}
-q3e3 10.1103/PhysRevLett.31.1453 {'id': '464'}
-u1s1 10.1103/PhysRevD.1.3459 {'id': '133'}
-u1s1 10.1103/PhysRevD.5.1803 {'id': '134'}
-u1s1 10.1103/PhysRevD.4.1409 {'id': '135'}
-10.1103/PhysRevA.4.796 l4k1 {'id': '139'}
-10.1103/PhysRevA.4.796 p6s3 {'id': '140'}
-m2r2 10.1103/PhysRevB.9.2558 {'id': '141'}
-w4l1 10.1103/PhysRevA.10.2257 {'id': '350'}
-w4l1 10.1103/PhysRevA.7.1544 {'id': '181'}
-w4l1 10.1103/PhysRevA.5.2122 {'id': '853'}
-w4l1 10.1103/PhysRevA.7.571 {'id': '834'}
-10.1103/PhysRevD.1.2638 v5y3 {'id': '1116'}
-10.1103/PhysRevD.1.2638 x2o1 {'id': '175'}
-10.1103/PhysRevB.6.1021 r6u2 {'id': '145'}
-10.1103/PhysRevB.6.1021 f1d1 {'id': '146'}
-10.1103/PhysRevB.6.1021 g1j3 {'id': '147'}
-10.1103/PhysRevB.6.1021 z4p1 {'id': '148'}
-10.1103/PhysRevB.7.80 r6n2 {'id': '149'}
-e5b3 10.1103/PhysRevA.6.850 {'id': '150'}
-e5b3 10.1103/PhysRevA.5.1565 {'id': '151'}
-e5b3 10.1103/PhysRevA.4.2076 {'id': '152'}
-p2g1 10.1103/PhysRevD.6.1648 {'id': '136'}
-p2g1 10.1103/PhysRevD.10.1981 {'id': '137'}
-p2g1 10.1103/PhysRevD.8.3626 {'id': '138'}
-j6s2 10.1103/PhysRevC.1.619 {'id': '156'}
-j6s2 10.1103/PhysRevC.4.944 {'id': '157'}
-x2a1 10.1103/PhysRevB.2.2543 {'id': '158'}
-10.1103/PhysRevD.4.2963 t3n2 {'id': '159'}
-10.1103/PhysRevD.4.2963 r1v2 {'id': '160'}
-n2f1 10.1103/PhysRevB.4.2757 {'id': '161'}
-n2f1 10.1103/PhysRevB.4.4598 {'id': '162'}
-n2f1 10.1103/PhysRevB.5.3362 {'id': '163'}
-s5c2 10.1103/PhysRevD.10.298 {'id': '265'}
-10.1103/PhysRevD.10.2396 o3f2 {'id': '165'}
-u4k1 10.1103/PhysRevC.9.1506 {'id': '166'}
-10.1103/PhysRevB.7.4741 k4e2 {'id': '168'}
-10.1103/PhysRevB.7.4741 b4t1 {'id': '169'}
-10.1103/PhysRevB.7.4741 v1o1 {'id': '170'}
-10.1103/PhysRevB.3.3510 b3l1 {'id': '171'}
-10.1103/PhysRevB.3.3510 e1k1 {'id': '172'}
-k6h2 10.1103/PhysRevA.7.1912 {'id': '173'}
-x2o1 10.1103/PhysRevLett.24.28 {'id': '174'}
-d3k1 10.1103/PhysRevC.9.1506 {'id': '176'}
-10.1103/PhysRevB.4.4343 u3q3 {'id': '177'}
-10.1103/PhysRevB.4.4343 k5d1 {'id': '178'}
-t5t3 10.1103/PhysRevC.2.566 {'id': '179'}
-t5t3 10.1103/PhysRevC.7.1166 {'id': '180'}
-t5t2 10.1103/PhysRevB.2.1405 {'id': '447'}
-10.1103/PhysRevD.7.2691 a1c3 {'id': '184'}
-10.1103/PhysRevD.7.2691 x6k2 {'id': '185'}
-g2m1 10.1103/PhysRevB.5.3308 {'id': '186'}
-g2m1 10.1103/PhysRevB.4.2774 {'id': '187'}
-g2m1 10.1103/PhysRevB.5.2335 {'id': '188'}
-g2m2 10.1103/PhysRevC.4.2165 {'id': '189'}
-x6k2 10.1103/PhysRevD.5.678 {'id': '190'}
-x6k2 10.1103/PhysRevD.6.1957 {'id': '191'}
-f2z2 10.1103/PhysRevD.10.298 {'id': '192'}
-t6c1 10.1103/PhysRevC.8.282 {'id': '193'}
-u5d1 10.1103/PhysRevB.9.5155 {'id': '194'}
-10.1103/PhysRevB.7.1650 u3q3 {'id': '195'}
-10.1103/PhysRevB.7.1650 a1p1 {'id': '196'}
-r6j2 10.1103/PhysRevC.10.774 {'id': '347'}
-r6j2 10.1103/PhysRevC.9.1515 {'id': '348'}
-c2b3 10.1103/PhysRevD.5.1546 {'id': '201'}
-c2b3 10.1103/PhysRevD.8.1940 {'id': '202'}
-c2b3 10.1103/PhysRevA.7.891 {'id': '203'}
-u2l1 10.1103/PhysRevB.10.775 {'id': '204'}
-10.1103/PhysRevB.9.3708 s3s1 {'id': '1073'}
-10.1103/PhysRevB.9.3708 k1k1 {'id': '1011'}
-n3k3 10.1103/PhysRevD.1.1445 {'id': '205'}
-j4h2 10.1103/PhysRevD.6.2919 {'id': '252'}
-j4h2 10.1103/PhysRevB.2.2756 {'id': '561'}
-10.1103/PhysRevB.3.1034 z1e2 {'id': '209'}
-d2u2 10.1103/PhysRevD.7.1587 {'id': '210'}
-10.1103/PhysRevD.9.2465 q2n2 {'id': '211'}
-10.1103/PhysRevD.9.2465 s6x2 {'id': '212'}
-b5z3 10.1103/PhysRevC.1.1477 {'id': '213'}
-r3w3 10.1103/PhysRevB.4.2765 {'id': '214'}
-n2z2 10.1103/PhysRevB.3.2619 {'id': '215'}
-n2z2 10.1103/PhysRevLett.29.272 {'id': '216'}
-n2z2 10.1103/PhysRevB.10.2654 {'id': '217'}
-n2z2 10.1103/PhysRevB.6.2414 {'id': '218'}
-n2z2 10.1103/PhysRevB.6.4879 {'id': '219'}
-g6t1 10.1103/PhysRevC.8.2277 {'id': '220'}
-10.1103/PhysRevD.10.290 f4e2 {'id': '221'}
-r5y2 10.1103/PhysRevB.4.4643 {'id': '222'}
-10.1103/PhysRevD.6.3032 y2p2 {'id': '223'}
-10.1103/PhysRevB.7.4291 e4p3 {'id': '224'}
-m3v3 10.1103/PhysRevC.2.110 {'id': '225'}
-m3v3 10.1103/PhysRevC.3.992 {'id': '226'}
-m3v3 10.1103/PhysRevC.4.652 {'id': '227'}
-o1h1 10.1103/PhysRevB.4.1794 {'id': '228'}
-10.1103/PhysRevB.7.4449 v2b1 {'id': '229'}
-10.1103/PhysRevB.7.4449 e1c3 {'id': '230'}
-n1b2 10.1103/PhysRevD.9.956 {'id': '231'}
-n1b2 10.1103/PhysRevD.7.284 {'id': '232'}
-10.1103/PhysRevA.3.390 u5d3 {'id': '233'}
-10.1103/PhysRevA.3.390 u1t3 {'id': '234'}
-10.1103/PhysRevA.3.390 t2q3 {'id': '235'}
-10.1103/PhysRevA.3.390 m3w3 {'id': '236'}
-10.1103/PhysRevC.5.1860 d4d3 {'id': '237'}
-10.1103/PhysRevD.2.405 u3n3 {'id': '238'}
-10.1103/PhysRevD.2.405 t5h2 {'id': '239'}
-10.1103/PhysRevA.6.1340 f1k2 {'id': '240'}
-10.1103/PhysRevA.6.1340 t1c1 {'id': '241'}
-s5d3 10.1103/PhysRevB.5.4143 {'id': '242'}
-s5d3 10.1103/PhysRevB.8.4036 {'id': '243'}
-s5d3 10.1103/PhysRevA.4.1299 {'id': '244'}
-s5d3 10.1103/PhysRevB.6.2195 {'id': '245'}
-s5d3 10.1103/PhysRevB.7.4640 {'id': '246'}
-k4e2 10.1103/PhysRevB.4.4379 {'id': '247'}
-k4e2 10.1103/PhysRevB.2.1704 {'id': '248'}
-k4e2 10.1103/PhysRevB.1.506 {'id': '249'}
-k4e2 10.1103/PhysRevB.1.2532 {'id': '250'}
-10.1103/PhysRevD.6.2919 c3w1 {'id': '253'}
-10.1103/PhysRevD.6.1453 z4v2 {'id': '254'}
-z1o2 10.1103/PhysRevA.3.1780 {'id': '313'}
-z1o2 10.1103/PhysRevA.4.1299 {'id': '377'}
-z1o2 10.1103/PhysRevA.5.918 {'id': '1100'}
-z1o3 10.1103/PhysRevC.7.350 {'id': '991'}
-10.1103/PhysRevA.5.390 m3w3 {'id': '258'}
-10.1103/PhysRevA.5.390 t2q3 {'id': '259'}
-10.1103/PhysRevB.8.4671 p6o2 {'id': '669'}
-10.1103/PhysRevB.8.4671 v1o1 {'id': '670'}
-10.1103/PhysRevD.6.1217 d2f1 {'id': '261'}
-10.1103/PhysRevD.6.1217 q5a1 {'id': '262'}
-10.1103/PhysRevD.3.677 h1e1 {'id': '263'}
-10.1103/PhysRevD.3.677 y2p2 {'id': '264'}
-u3u1 10.1103/PhysRevC.9.2454 {'id': '737'}
-10.1103/PhysRevD.2.2713 b3w1 {'id': '269'}
-10.1103/PhysRevD.2.2713 x3q2 {'id': '270'}
-f6y2 10.1103/PhysRevC.8.188 {'id': '271'}
-10.1103/PhysRevB.6.596 s4z3 {'id': '272'}
-10.1103/PhysRevB.6.596 g6l1 {'id': '273'}
-y2p2 10.1103/PhysRevD.5.610 {'id': '274'}
-y2p2 10.1103/PhysRevD.3.266 {'id': '275'}
-10.1103/PhysRevD.2.2899 f6v1 {'id': '276'}
-h2s3 10.1103/PhysRevB.8.4053 {'id': '277'}
-h2s3 10.1103/PhysRevB.8.4057 {'id': '278'}
-10.1103/PhysRevB.6.2642 r6l1 {'id': '279'}
-10.1103/PhysRevB.6.2642 q4a1 {'id': '280'}
-10.1103/PhysRevA.8.2298 h5m2 {'id': '281'}
-10.1103/PhysRevA.8.2298 r4v1 {'id': '282'}
-10.1103/PhysRevB.1.627 e1g2 {'id': '283'}
-10.1103/PhysRevB.1.627 u4q1 {'id': '284'}
-r6u2 10.1103/PhysRevLett.28.1133 {'id': '285'}
-r6u2 10.1103/PhysRevB.8.5028 {'id': '286'}
-e4v3 10.1103/PhysRevC.1.1477 {'id': '287'}
-e4v3 10.1103/PhysRevC.2.2278 {'id': '288'}
-10.1103/PhysRevC.6.738 n5a1 {'id': '291'}
-10.1103/PhysRevC.6.738 o4e1 {'id': '292'}
-10.1103/PhysRevA.7.1544 t5r1 {'id': '182'}
-10.1103/PhysRevA.7.1544 q1v3 {'id': '183'}
-t3q2 10.1103/PhysRevB.4.3901 {'id': '294'}
-10.1103/PhysRevA.7.319 t4x3 {'id': '295'}
-10.1103/PhysRevB.3.1985 u3q3 {'id': '296'}
-10.1103/PhysRevB.3.1985 v3p3 {'id': '297'}
-10.1103/PhysRevB.3.1985 x5t2 {'id': '298'}
-k5v1 10.1103/PhysRevC.8.2277 {'id': '299'}
-10.1103/PhysRevB.4.2774 o3p1 {'id': '300'}
-10.1103/PhysRevB.8.385 z6s2 {'id': '301'}
-10.1103/PhysRevB.8.385 v4r3 {'id': '302'}
-10.1103/PhysRevC.1.619 s4j1 {'id': '198'}
-h4a3 10.1103/PhysRevB.3.673 {'id': '303'}
-10.1103/PhysRevB.8.6035 v2b1 {'id': '304'}
-10.1103/PhysRevB.8.6035 k5g3 {'id': '305'}
-10.1103/PhysRevLett.32.284 t6y1 {'id': '306'}
-10.1103/PhysRevLett.32.284 v2l1 {'id': '307'}
-10.1103/PhysRevLett.32.284 v6f1 {'id': '308'}
-10.1103/PhysRevLett.32.284 x3q1 {'id': '309'}
-10.1103/PhysRevLett.32.284 q1d3 {'id': '310'}
-a4e3 10.1103/PhysRevC.8.2277 {'id': '311'}
-10.1103/PhysRevD.1.3496 d5f3 {'id': '312'}
-10.1103/PhysRevD.1.3496 y3o2 {'id': '43'}
-10.1103/PhysRevA.3.1780 m3w3 {'id': '315'}
-10.1103/PhysRevA.3.1780 t2q3 {'id': '314'}
-10.1103/PhysRevB.4.225 y1y2 {'id': '316'}
-10.1103/PhysRevB.4.225 g5v1 {'id': '317'}
-10.1103/PhysRevD.10.1310 a1c3 {'id': '318'}
-10.1103/PhysRevD.10.1310 h1e1 {'id': '319'}
-10.1103/PhysRevC.8.1167 p5u1 {'id': '320'}
-m2m3 10.1103/PhysRevLett.25.1125 {'id': '321'}
-10.1103/PhysRevD.1.2135 d3n2 {'id': '322'}
-10.1103/PhysRevA.9.2773 v2b1 {'id': '323'}
-10.1103/PhysRevA.9.2773 w1e2 {'id': '324'}
-10.1103/PhysRevB.3.3702 e5a1 {'id': '325'}
-10.1103/PhysRevB.3.3702 k1z1 {'id': '326'}
-10.1103/PhysRevD.1.3403 d5l1 {'id': '327'}
-x1x1 10.1103/RevModPhys.45.22 {'id': '328'}
-10.1103/PhysRevB.1.750 u3q3 {'id': '329'}
-10.1103/PhysRevB.1.750 k5d1 {'id': '330'}
-b6x2 10.1103/PhysRevA.7.42 {'id': '331'}
-b6x2 10.1103/PhysRevD.10.2831 {'id': '332'}
-n6m2 10.1103/PhysRevC.6.321 {'id': '333'}
-b4t1 10.1103/PhysRevB.4.4379 {'id': '336'}
-b4t1 10.1103/PhysRevB.4.4363 {'id': '337'}
-b4t1 10.1103/PhysRevB.8.4039 {'id': '338'}
-t5z3 10.1103/PhysRevB.6.1399 {'id': '339'}
-t5z3 10.1103/PhysRevB.4.1220 {'id': '340'}
-10.1103/PhysRevB.4.1770 g1w3 {'id': '342'}
-10.1103/PhysRevB.4.1770 v1o1 {'id': '343'}
-v1r1 10.1103/PhysRevLett.28.1136 {'id': '344'}
-j6h3 10.1103/PhysRevA.8.2425 {'id': '850'}
-j6h3 10.1103/PhysRevA.9.2569 {'id': '851'}
-10.1103/PhysRevD.2.1902 b2k2 {'id': '349'}
-10.1103/PhysRevA.10.2257 t5r1 {'id': '351'}
-10.1103/PhysRevA.10.2257 q1v3 {'id': '352'}
-10.1103/PhysRevD.4.250 d5f3 {'id': '887'}
-y2p1 10.1103/PhysRevB.6.2195 {'id': '354'}
-f6l2 10.1103/PhysRevA.7.1001 {'id': '355'}
-10.1103/PhysRevD.3.1136 l4u3 {'id': '356'}
-10.1103/PhysRevD.9.2631 p2t1 {'id': '357'}
-10.1103/PhysRevB.3.385 u3q3 {'id': '358'}
-10.1103/PhysRevB.3.385 w2p1 {'id': '359'}
-10.1103/PhysRevB.3.385 y3n2 {'id': '360'}
-j2q1 10.1103/PhysRevLett.28.1136 {'id': '361'}
-j2q1 10.1103/PhysRevLett.27.1571 {'id': '362'}
-10.1103/PhysRevD.7.2111 d5f3 {'id': '363'}
-10.1103/PhysRevD.7.2111 a6g1 {'id': '89'}
-u4d3 10.1103/PhysRevD.5.2310 {'id': '364'}
-10.1103/PhysRevD.8.1653 y1w2 {'id': '365'}
-10.1103/PhysRevD.8.1653 f3e3 {'id': '366'}
-a1z3 10.1103/PhysRevC.2.1279 {'id': '367'}
-10.1103/PhysRevB.8.4039 v1o1 {'id': '368'}
-10.1103/PhysRevB.7.3649 v2b1 {'id': '369'}
-v2b1 10.1103/PhysRevB.10.2764 {'id': '671'}
-v2b1 10.1103/PhysRevA.9.2128 {'id': '645'}
-v2b1 10.1103/PhysRevA.4.2413 {'id': '672'}
-v2b1 10.1103/PhysRevB.6.2978 {'id': '673'}
-10.1103/PhysRevB.8.4036 t2q3 {'id': '370'}
-10.1103/PhysRevB.2.1704 v1o1 {'id': '371'}
-k5e3 10.1103/PhysRevB.9.4993 {'id': '372'}
-j5o1 10.1103/PhysRevD.10.2165 {'id': '31'}
-j5o1 10.1103/PhysRevD.10.3076 {'id': '373'}
-j5o1 10.1103/PhysRevD.5.1541 {'id': '374'}
-l3b3 10.1103/PhysRevC.8.188 {'id': '375'}
-l3b3 10.1103/PhysRevC.7.1785 {'id': '376'}
-10.1103/PhysRevA.4.1299 o5j3 {'id': '378'}
-10.1103/PhysRevA.4.1299 m3w3 {'id': '380'}
-10.1103/PhysRevA.4.1299 t2q3 {'id': '379'}
-10.1103/PhysRevB.7.2942 f6y3 {'id': '381'}
-10.1103/PhysRevB.7.2942 j6t2 {'id': '382'}
-10.1103/PhysRevB.7.2942 u5g2 {'id': '383'}
-10.1103/PhysRevB.7.2942 j5a2 {'id': '384'}
-10.1103/PhysRevB.7.897 u3q3 {'id': '385'}
-10.1103/PhysRevB.7.897 h6f3 {'id': '386'}
-r2e3 10.1103/PhysRevD.4.3617 {'id': '387'}
-r2e3 10.1103/PhysRevD.10.1981 {'id': '388'}
-r2e3 10.1103/PhysRevD.8.1808 {'id': '389'}
-r2e3 10.1103/PhysRevD.3.729 {'id': '392'}
-r2e3 10.1103/PhysRevA.9.631 {'id': '390'}
-r2e3 10.1103/PhysRevD.7.2884 {'id': '391'}
-r2e3 10.1103/PhysRevD.8.3626 {'id': '393'}
-r2e3 10.1103/PhysRevD.1.1445 {'id': '394'}
-b3w1 10.1103/PhysRevD.7.3670 {'id': '395'}
-b3w1 10.1103/PhysRevD.8.2337 {'id': '396'}
-10.1103/PhysRevD.5.1541 t5k1 {'id': '397'}
-10.1103/PhysRevB.1.287 p6x3 {'id': '398'}
-d4d3 10.1103/PhysRevC.2.2106 {'id': '403'}
-d4d3 10.1103/PhysRevLett.24.910 {'id': '404'}
-d4d3 10.1103/PhysRevC.3.1936 {'id': '405'}
-d4d3 10.1103/PhysRevC.7.216 {'id': '406'}
-d4d3 10.1103/PhysRevC.4.1073 {'id': '407'}
-10.1103/PhysRevB.1.2532 v1o1 {'id': '408'}
-10.1103/PhysRevC.1.1477 t5a1 {'id': '409'}
-10.1103/PhysRevC.2.1279 r3g3 {'id': '410'}
-10.1103/PhysRevB.1.931 s1k1 {'id': '1007'}
-10.1103/PhysRevB.1.931 o5p1 {'id': '1083'}
-10.1103/PhysRevB.8.667 m6t1 {'id': '412'}
-10.1103/PhysRevB.8.667 x1w2 {'id': '413'}
-n4c3 10.1103/PhysRevA.5.392 {'id': '255'}
-10.1103/PhysRevB.7.5165 j3k1 {'id': '414'}
-10.1103/PhysRevB.7.5165 n5h1 {'id': '415'}
-10.1103/PhysRevC.4.1510 p3q2 {'id': '417'}
-10.1103/PhysRevC.4.1510 s5d2 {'id': '418'}
-10.1103/PhysRevC.4.1510 n5t1 {'id': '419'}
-10.1103/PhysRevD.5.2936 e1z1 {'id': '420'}
-a2a3 10.1103/PhysRevA.4.1025 {'id': '422'}
-g5j1 10.1103/PhysRevLett.24.524 {'id': '496'}
-g1w1 10.1103/PhysRevB.9.5144 {'id': '424'}
-g1w1 10.1103/PhysRevB.2.4741 {'id': '425'}
-10.1103/PhysRevB.3.3390 s2l2 {'id': '426'}
-10.1103/PhysRevB.3.3390 k5j3 {'id': '427'}
-g1w3 10.1103/PhysRevB.10.2652 {'id': '429'}
-g1w3 10.1103/PhysRevB.1.1468 {'id': '430'}
-g1w3 10.1103/PhysRevB.5.2880 {'id': '431'}
-g1w3 10.1103/PhysRevB.2.915 {'id': '428'}
-g1w3 10.1103/PhysRevB.8.5532 {'id': '432'}
-e2l2 10.1103/PhysRevB.8.4880 {'id': '433'}
-e2l2 10.1103/PhysRevB.9.3609 {'id': '434'}
-e2l2 10.1103/PhysRevB.2.4288 {'id': '435'}
-e2l2 10.1103/PhysRevB.10.779 {'id': '436'}
-e2l2 10.1103/PhysRevB.8.593 {'id': '437'}
-e2l2 10.1103/PhysRevB.9.1958 {'id': '438'}
-h1q2 10.1103/PhysRevA.5.1252 {'id': '439'}
-h1q2 10.1103/PhysRevA.8.849 {'id': '440'}
-10.1103/PhysRevB.7.4665 o3p1 {'id': '441'}
-10.1103/PhysRevB.7.4665 u4z2 {'id': '442'}
-10.1103/PhysRevD.1.351 d5f3 {'id': '443'}
-10.1103/PhysRevD.1.351 d3n2 {'id': '444'}
-10.1103/PhysRevB.8.5557 d1m2 {'id': '143'}
-10.1103/PhysRevB.8.5557 a5e3 {'id': '445'}
-t5h2 10.1103/PhysRevD.1.571 {'id': '446'}
-o5d2 10.1103/PhysRevLett.30.1046 {'id': '449'}
-10.1103/PhysRevB.5.3909 o4f3 {'id': '450'}
-10.1103/PhysRevA.1.1567 f5j3 {'id': '451'}
-10.1103/PhysRevA.1.1567 v1w2 {'id': '452'}
-b1d1 10.1103/PhysRevD.9.288 {'id': '453'}
-b1d1 10.1103/PhysRevD.10.3691 {'id': '454'}
-r6n2 10.1103/PhysRevB.3.1649 {'id': '455'}
-r6n3 10.1103/PhysRevD.6.2574 {'id': '456'}
-10.1103/PhysRevC.5.285 p5u1 {'id': '457'}
-10.1103/PhysRevA.5.1252 d6r2 {'id': '460'}
-10.1103/PhysRevA.5.1252 f5j3 {'id': '461'}
-10.1103/PhysRevA.9.631 q4a2 {'id': '462'}
-10.1103/PhysRevA.9.631 f2q1 {'id': '463'}
-10.1103/PhysRevLett.31.1453 o5q3 {'id': '465'}
-v1b3 10.1103/PhysRevB.3.2929 {'id': '466'}
-v1b3 10.1103/PhysRevB.8.4053 {'id': '467'}
-v1b3 10.1103/PhysRevB.8.4057 {'id': '468'}
-x5t2 10.1103/PhysRevB.4.4491 {'id': '469'}
-x5t2 10.1103/PhysRevB.5.2215 {'id': '470'}
-x5t2 10.1103/PhysRevB.4.1306 {'id': '471'}
-o4m3 10.1103/PhysRevA.7.1001 {'id': '472'}
-10.1103/PhysRevA.8.2624 h4u3 {'id': '856'}
-10.1103/PhysRevA.8.2624 m6j1 {'id': '857'}
-10.1103/PhysRevD.10.1872 f4x3 {'id': '815'}
-10.1103/PhysRevD.10.1872 e2t2 {'id': '164'}
-k2r3 10.1103/PhysRevC.6.572 {'id': '475'}
-t4x3 10.1103/PhysRevA.5.1846 {'id': '476'}
-10.1103/PhysRevLett.26.1609 y2x3 {'id': '479'}
-p3q3 10.1103/PhysRevA.6.850 {'id': '480'}
-p3q3 10.1103/PhysRevA.5.1565 {'id': '481'}
-p3q3 10.1103/PhysRevA.4.2076 {'id': '482'}
-a1d2 10.1103/PhysRevA.6.1214 {'id': '206'}
-10.1103/PhysRevA.7.1001 z3v3 {'id': '483'}
-10.1103/PhysRevA.7.130 u5l3 {'id': '484'}
-10.1103/PhysRevA.7.130 d6n2 {'id': '477'}
-m5m3 10.1103/PhysRevB.10.4050 {'id': '485'}
-m5m3 10.1103/PhysRevB.3.3901 {'id': '486'}
-m5m3 10.1103/PhysRevB.2.1411 {'id': '487'}
-y4f2 10.1103/PhysRevC.5.1124 {'id': '488'}
-y4f2 10.1103/PhysRevC.4.2165 {'id': '489'}
-y4f2 10.1103/PhysRevLett.25.386 {'id': '490'}
-10.1103/PhysRevB.8.4880 q2u2 {'id': '491'}
-10.1103/PhysRevB.10.2934 o4f3 {'id': '492'}
-10.1103/PhysRevB.10.2934 n3t2 {'id': '493'}
-10.1103/PhysRevD.4.2849 v5o2 {'id': '910'}
-10.1103/PhysRevD.4.2849 n5a1 {'id': '399'}
-10.1103/PhysRevD.4.2849 x2w2 {'id': '911'}
-k1g3 10.1103/PhysRevB.2.2756 {'id': '925'}
-n5v1 10.1103/PhysRevB.8.4053 {'id': '497'}
-n5v1 10.1103/PhysRevB.8.4057 {'id': '498'}
-10.1103/PhysRevD.3.1280 v5z2 {'id': '993'}
-10.1103/PhysRevD.3.1280 e5t1 {'id': '959'}
-10.1103/PhysRevC.5.1124 l1p1 {'id': '499'}
-10.1103/PhysRevC.5.1124 r6v3 {'id': '500'}
-10.1103/PhysRevB.4.4379 v1o1 {'id': '501'}
-x5e2 10.1103/PhysRevB.2.3943 {'id': '503'}
-10.1103/PhysRevB.7.424 x5x1 {'id': '504'}
-10.1103/PhysRevB.7.424 x6b1 {'id': '505'}
-r6g3 10.1103/PhysRevD.5.1068 {'id': '506'}
-j2c2 10.1103/PhysRevD.7.1587 {'id': '507'}
-10.1103/PhysRevB.2.4903 u3q3 {'id': '508'}
-10.1103/PhysRevB.2.4903 l3w3 {'id': '509'}
-10.1103/PhysRevB.2.4903 h1s2 {'id': '510'}
-10.1103/PhysRevB.3.360 g5d1 {'id': '511'}
-10.1103/PhysRevB.3.360 u4q1 {'id': '512'}
-10.1103/PhysRevB.8.843 h4a1 {'id': '513'}
-10.1103/PhysRevB.8.843 x1b3 {'id': '514'}
-u3q3 10.1103/PhysRevB.4.4647 {'id': '515'}
-u3q3 10.1103/PhysRevB.3.501 {'id': '516'}
-u3q3 10.1103/PhysRevB.8.3051 {'id': '517'}
-u3q3 10.1103/PhysRevB.3.3574 {'id': '518'}
-u3q3 10.1103/PhysRevB.7.2626 {'id': '519'}
-u3q3 10.1103/PhysRevB.5.3165 {'id': '520'}
-u3q3 10.1103/PhysRevB.8.925 {'id': '521'}
-u3q3 10.1103/PhysRevB.5.2215 {'id': '522'}
-u3q3 10.1103/PhysRevB.6.4013 {'id': '523'}
-u3q3 10.1103/PhysRevB.1.642 {'id': '524'}
-u3q3 10.1103/PhysRevB.1.488 {'id': '525'}
-u3q3 10.1103/PhysRevB.7.5316 {'id': '526'}
-u3q3 10.1103/PhysRevB.10.219 {'id': '527'}
-u3q3 10.1103/PhysRevB.4.4491 {'id': '528'}
-u3q3 10.1103/PhysRevB.5.1535 {'id': '529'}
-u3q3 10.1103/PhysRevB.9.5337 {'id': '530'}
-u3q3 10.1103/PhysRevB.6.3160 {'id': '531'}
-u3q3 10.1103/PhysRevB.6.3053 {'id': '532'}
-u3q3 10.1103/PhysRevB.3.331 {'id': '533'}
-u3q3 10.1103/PhysRevB.1.776 {'id': '534'}
-u3q3 10.1103/PhysRevB.4.1306 {'id': '535'}
-u3q3 10.1103/PhysRevB.6.2026 {'id': '536'}
-u3q3 10.1103/PhysRevB.4.498 {'id': '537'}
-10.1103/PhysRevB.6.2192 r5u1 {'id': '538'}
-10.1103/PhysRevB.6.2192 f6c2 {'id': '539'}
-k6o1 10.1103/PhysRevB.10.4801 {'id': '540'}
-w6q1 10.1103/RevModPhys.43.679 {'id': '541'}
-w6q1 10.1103/RevModPhys.42.409 {'id': '542'}
-10.1103/PhysRevB.6.2195 t2q3 {'id': '543'}
-10.1103/PhysRevC.8.1433 y3h2 {'id': '544'}
-10.1103/PhysRevD.4.3617 s1s1 {'id': '545'}
-10.1103/PhysRevD.4.3617 v6y1 {'id': '546'}
-10.1103/PhysRevD.4.3617 m2s2 {'id': '547'}
-10.1103/PhysRevD.4.3617 m6q3 {'id': '548'}
-10.1103/PhysRevD.9.956 w1b3 {'id': '882'}
-10.1103/PhysRevD.10.2165 t5k1 {'id': '30'}
-10.1103/PhysRevB.3.2816 l3w3 {'id': '551'}
-z4a3 10.1103/PhysRevC.5.1410 {'id': '552'}
-z4a3 10.1103/PhysRevC.3.785 {'id': '553'}
-d3n3 10.1103/PhysRevA.9.2128 {'id': '554'}
-10.1103/PhysRevD.6.2198 k3w2 {'id': '555'}
-l3w3 10.1103/PhysRevB.8.3054 {'id': '556'}
-l3w3 10.1103/PhysRevB.4.4643 {'id': '557'}
-l3w3 10.1103/PhysRevB.1.488 {'id': '558'}
-l3w3 10.1103/PhysRevB.9.4405 {'id': '559'}
-l3w3 10.1103/PhysRevB.3.1505 {'id': '560'}
-l2b2 10.1103/PhysRevB.9.2558 {'id': '416'}
-10.1103/PhysRevB.4.1632 o6g3 {'id': '564'}
-10.1103/PhysRevB.4.1632 o2e2 {'id': '565'}
-10.1103/PhysRevB.4.3527 o3p1 {'id': '566'}
-10.1103/PhysRevB.4.3527 u4z2 {'id': '567'}
-y3w3 10.1103/PhysRevC.3.254 {'id': '18'}
-y3w3 10.1103/PhysRevC.3.247 {'id': '19'}
-r5u2 10.1103/PhysRevB.9.5155 {'id': '570'}
-10.1103/PhysRevB.2.915 v1o1 {'id': '571'}
-g3r1 10.1103/PhysRevB.4.2757 {'id': '572'}
-g3r1 10.1103/PhysRevB.4.4598 {'id': '573'}
-g3r1 10.1103/PhysRevB.5.3362 {'id': '574'}
-h6o2 10.1103/PhysRevA.7.34 {'id': '576'}
-h1e1 10.1103/PhysRevD.8.1516 {'id': '577'}
-10.1103/PhysRevD.8.2337 x3q2 {'id': '578'}
-10.1103/PhysRevB.6.3509 a1p1 {'id': '579'}
-10.1103/PhysRevC.8.1154 a2g1 {'id': '580'}
-10.1103/PhysRevC.8.1154 p5u1 {'id': '581'}
-10.1103/PhysRevD.4.270 x2w2 {'id': '582'}
-10.1103/PhysRevC.3.480 y2f3 {'id': '583'}
-h3e3 10.1103/PhysRevA.1.497 {'id': '584'}
-b4p2 10.1103/PhysRevC.8.2277 {'id': '585'}
-b4p2 10.1103/PhysRevB.7.1362 {'id': '586'}
-10.1103/PhysRevB.9.703 t3o3 {'id': '589'}
-q6t2 10.1103/PhysRevB.2.2756 {'id': '590'}
-10.1103/PhysRevC.5.12 k5p1 {'id': '591'}
-10.1103/PhysRevC.5.12 z6y3 {'id': '592'}
-e4b2 10.1103/PhysRevB.5.3702 {'id': '593'}
-10.1103/PhysRevD.10.3476 q2n2 {'id': '595'}
-10.1103/PhysRevD.10.3476 s6x2 {'id': '596'}
-10.1103/PhysRevC.8.472 h2q2 {'id': '597'}
-a4n2 10.1103/PhysRevD.9.1420 {'id': '598'}
-a4n2 10.1103/PhysRevD.1.338 {'id': '599'}
-10.1103/PhysRevB.5.1633 e1g2 {'id': '601'}
-10.1103/PhysRevB.5.1633 u4q1 {'id': '602'}
-10.1103/PhysRevC.3.992 l5y2 {'id': '603'}
-t4a2 10.1103/PhysRevC.2.566 {'id': '605'}
-t4a2 10.1103/PhysRevC.7.1166 {'id': '606'}
-10.1103/PhysRevB.3.501 k5d1 {'id': '607'}
-10.1103/PhysRevB.7.644 r4q1 {'id': '608'}
-10.1103/PhysRevB.7.644 c1x3 {'id': '609'}
-10.1103/PhysRevC.7.840 s4j1 {'id': '200'}
-z6t1 10.1103/PhysRevLett.30.620 {'id': '610'}
-z6t1 10.1103/PhysRevLett.29.272 {'id': '611'}
-z6t1 10.1103/PhysRevB.10.3711 {'id': '612'}
-10.1103/PhysRevD.10.1981 e4y2 {'id': '613'}
-l6h1 10.1103/PhysRevC.4.2165 {'id': '614'}
-10.1103/PhysRevD.5.678 a1c3 {'id': '615'}
-10.1103/PhysRevD.1.358 n5a1 {'id': '402'}
-10.1103/PhysRevD.1.358 x2w2 {'id': '423'}
-s2w2 10.1103/PhysRevLett.26.737 {'id': '616'}
-t4s3 10.1103/PhysRevC.9.1506 {'id': '618'}
-10.1103/PhysRevD.8.3706 e6o3 {'id': '260'}
-10.1103/PhysRevD.8.2939 y2x3 {'id': '626'}
-10.1103/PhysRevD.5.744 y3l2 {'id': '986'}
-10.1103/PhysRevLett.30.620 n6p2 {'id': '627'}
-10.1103/PhysRevB.2.3943 l6p3 {'id': '628'}
-k4o3 10.1103/PhysRevLett.28.1133 {'id': '629'}
-10.1103/PhysRevB.6.1589 j2x3 {'id': '630'}
-10.1103/PhysRevB.6.1589 l1g1 {'id': '631'}
-y3k1 10.1103/PhysRevA.8.1630 {'id': '632'}
-10.1103/PhysRevB.10.2652 v5g3 {'id': '633'}
-z5e3 10.1103/PhysRevC.3.254 {'id': '634'}
-z5e3 10.1103/PhysRevC.3.247 {'id': '635'}
-10.1103/PhysRevD.6.2574 n2d2 {'id': '636'}
-10.1103/PhysRevB.5.2880 v1o1 {'id': '637'}
-a1c3 10.1103/PhysRevD.7.1491 {'id': '638'}
-l5x1 10.1103/PhysRevLett.25.1125 {'id': '639'}
-10.1103/PhysRevB.7.4338 d1m2 {'id': '144'}
-10.1103/PhysRevB.7.4338 a5e3 {'id': '640'}
-10.1103/PhysRevB.5.2335 o3p1 {'id': '641'}
-c3a1 10.1103/PhysRevB.3.3597 {'id': '600'}
-10.1103/PhysRevA.2.2570 m5b1 {'id': '643'}
-10.1103/PhysRevA.2.2570 o3f2 {'id': '644'}
-10.1103/PhysRevB.3.1843 o3p1 {'id': '782'}
-j2v1 10.1103/PhysRevB.5.3488 {'id': '650'}
-q5c3 10.1103/RevModPhys.43.679 {'id': '651'}
-q5c3 10.1103/RevModPhys.42.409 {'id': '652'}
-q5c3 10.1103/PhysRevB.5.1993 {'id': '653'}
-10.1103/PhysRevD.7.2125 d5f3 {'id': '654'}
-10.1103/PhysRevD.7.2125 j4j1 {'id': '655'}
-d3c2 10.1103/PhysRevA.6.1869 {'id': '458'}
-d3c2 10.1103/PhysRevA.8.2727 {'id': '459'}
-10.1103/PhysRevD.2.1317 q4z1 {'id': '657'}
-10.1103/PhysRevD.2.1317 t1t3 {'id': '658'}
-10.1103/PhysRevD.2.1315 q4z1 {'id': '659'}
-10.1103/PhysRevD.2.1315 t1t3 {'id': '660'}
-10.1103/PhysRevA.1.1404 o4k3 {'id': '623'}
-10.1103/PhysRevA.1.1404 h1m3 {'id': '663'}
-10.1103/PhysRevA.1.1404 v1o1 {'id': '662'}
-k5j3 10.1103/PhysRevB.9.3517 {'id': '664'}
-z4t3 10.1103/PhysRevA.8.2814 {'id': '665'}
-z4t3 10.1103/PhysRevA.9.2569 {'id': '666'}
-z4t3 10.1103/PhysRevA.8.2425 {'id': '667'}
-g6l1 10.1103/PhysRevB.8.1503 {'id': '668'}
-10.1103/PhysRevA.10.717 z4k1 {'id': '642'}
-a5a3 10.1103/PhysRevD.7.3586 {'id': '674'}
-x4w2 10.1103/PhysRevC.2.2278 {'id': '675'}
-10.1103/PhysRevD.5.773 e4x3 {'id': '676'}
-10.1103/PhysRevD.5.773 l6m2 {'id': '677'}
-f5d3 10.1103/PhysRevC.9.1506 {'id': '617'}
-10.1103/PhysRevB.10.1113 x2j1 {'id': '679'}
-10.1103/PhysRevB.10.1113 l1k2 {'id': '680'}
-10.1103/PhysRevB.1.506 v1o1 {'id': '681'}
-a6u2 10.1103/PhysRevD.1.377 {'id': '682'}
-a6u3 10.1103/PhysRevB.9.5334 {'id': '341'}
-10.1103/PhysRevC.5.1410 u6o2 {'id': '568'}
-s3h3 10.1103/PhysRevB.9.5155 {'id': '293'}
-p5y1 10.1103/PhysRevC.1.35 {'id': '687'}
-l3a2 10.1103/PhysRevC.8.1149 {'id': '688'}
-b2e3 10.1103/PhysRevLett.24.1 {'id': '689'}
-b2e3 10.1103/PhysRevLett.28.583 {'id': '690'}
-b2e3 10.1103/PhysRevA.5.1755 {'id': '691'}
-b2e2 10.1103/PhysRevLett.24.910 {'id': '692'}
-b2e2 10.1103/PhysRevC.3.1936 {'id': '693'}
-b2e2 10.1103/PhysRevC.7.1010 {'id': '694'}
-b2e2 10.1103/PhysRevC.10.1189 {'id': '695'}
-b2e2 10.1103/PhysRevC.4.1073 {'id': '696'}
-10.1103/PhysRevD.6.3270 t1t3 {'id': '697'}
-10.1103/PhysRevC.3.1466 c3d3 {'id': '698'}
-10.1103/PhysRevC.3.1466 f5f1 {'id': '699'}
-10.1103/PhysRevD.1.363 n5a1 {'id': '400'}
-10.1103/PhysRevD.1.363 x2w2 {'id': '700'}
-d6r2 10.1103/PhysRevA.6.1063 {'id': '701'}
-c5o1 10.1103/PhysRevD.3.729 {'id': '702'}
-c5o1 10.1103/PhysRevD.9.839 {'id': '703'}
-t5k1 10.1103/PhysRevD.10.3076 {'id': '704'}
-e1e1 10.1103/PhysRevB.1.3426 {'id': '705'}
-e1e1 10.1103/PhysRevB.1.3993 {'id': '706'}
-e1e1 10.1103/PhysRevB.6.4879 {'id': '707'}
-e1e1 10.1103/PhysRevB.3.2619 {'id': '708'}
-e1e1 10.1103/PhysRevB.2.3249 {'id': '709'}
-e1e1 10.1103/PhysRevB.6.2414 {'id': '710'}
-p5w2 10.1103/PhysRevB.7.1128 {'id': '714'}
-p5w2 10.1103/PhysRevB.5.1993 {'id': '656'}
-y4b2 10.1103/PhysRevB.8.3305 {'id': '562'}
-10.1103/PhysRevC.9.2297 j2a2 {'id': '712'}
-10.1103/PhysRevC.9.2297 k3r1 {'id': '713'}
-f2b2 10.1103/PhysRevC.9.1515 {'id': '647'}
-10.1103/PhysRevD.10.2255 t6o3 {'id': '251'}
-10.1103/PhysRevD.10.2255 r4o3 {'id': '353'}
-10.1103/PhysRevB.10.1847 u5e2 {'id': '715'}
-v4f1 10.1103/PhysRevA.7.42 {'id': '716'}
-v4f1 10.1103/PhysRevD.10.2831 {'id': '717'}
-v4f1 10.1103/PhysRevA.1.33 {'id': '718'}
-n5r3 10.1103/PhysRevB.10.4485 {'id': '719'}
-10.1103/PhysRevLett.29.1005 g4j3 {'id': '720'}
-10.1103/PhysRevLett.29.1005 e1r2 {'id': '721'}
-g1t2 10.1103/PhysRevD.1.2945 {'id': '722'}
-g1t2 10.1103/PhysRevD.8.1808 {'id': '723'}
-g1t2 10.1103/PhysRevD.5.1370 {'id': '686'}
-m3b2 10.1103/PhysRevD.7.3590 {'id': '724'}
-10.1103/PhysRevB.8.925 w2p1 {'id': '725'}
-j4j1 10.1103/PhysRevD.4.2094 {'id': '563'}
-10.1103/PhysRevB.10.4050 l5l2 {'id': '726'}
-10.1103/PhysRevB.10.4050 v1o1 {'id': '727'}
-q5x3 10.1103/PhysRevD.4.2768 {'id': '728'}
-o3d1 10.1103/PhysRevLett.24.1 {'id': '729'}
-o3d1 10.1103/PhysRevLett.28.583 {'id': '730'}
-o3d1 10.1103/PhysRevA.5.1755 {'id': '731'}
-v2g1 10.1103/PhysRevC.1.1498 {'id': '732'}
-10.1103/PhysRevD.8.249 y2x3 {'id': '733'}
-10.1103/PhysRevC.2.566 r2y2 {'id': '734'}
-n5k2 10.1103/PhysRevB.8.2975 {'id': '735'}
-r2y2 10.1103/PhysRevC.7.1166 {'id': '736'}
-10.1103/PhysRevC.9.2454 v3p2 {'id': '738'}
-10.1103/PhysRevA.8.2814 f1y3 {'id': '739'}
-l4k1 10.1103/PhysRevA.9.1021 {'id': '743'}
-l4k1 10.1103/PhysRevD.7.1936 {'id': '741'}
-l4k1 10.1103/PhysRevA.1.1696 {'id': '742'}
-l4k1 10.1103/PhysRevA.9.2167 {'id': '740'}
-j2j1 10.1103/PhysRevD.2.1281 {'id': '744'}
-u5g3 10.1103/PhysRevB.9.2513 {'id': '266'}
-u5g3 10.1103/PhysRevB.6.2285 {'id': '267'}
-u5g3 10.1103/PhysRevLett.27.1571 {'id': '268'}
-v1a3 10.1103/PhysRevD.7.1541 {'id': '747'}
-10.1103/PhysRevD.5.1803 d5f3 {'id': '748'}
-o3j3 10.1103/PhysRevD.8.1144 {'id': '749'}
-10.1103/PhysRevB.8.2362 p6x3 {'id': '750'}
-g1f1 10.1103/PhysRevB.5.3160 {'id': '751'}
-e3j2 10.1103/PhysRevA.6.1214 {'id': '208'}
-d3t2 10.1103/PhysRevB.1.776 {'id': '752'}
-10.1103/PhysRevB.2.4723 e5a1 {'id': '753'}
-10.1103/PhysRevB.2.4723 k1z1 {'id': '754'}
-y3y3 10.1103/PhysRevB.7.1362 {'id': '678'}
-10.1103/PhysRevB.9.5337 w2p1 {'id': '756'}
-v1b1 10.1103/PhysRevD.2.357 {'id': '757'}
-v1b1 10.1103/PhysRevD.10.1655 {'id': '758'}
-z4k1 10.1103/PhysRevLett.32.703 {'id': '759'}
-z4k1 10.1103/PhysRevB.10.1447 {'id': '760'}
-10.1103/PhysRevA.7.34 f2q1 {'id': '762'}
-10.1103/PhysRevD.2.410 y1w2 {'id': '763'}
-l3x3 10.1103/PhysRevC.4.2165 {'id': '764'}
-w1f1 10.1103/PhysRevB.4.4647 {'id': '765'}
-w1f1 10.1103/PhysRevB.6.4013 {'id': '766'}
-w1f1 10.1103/PhysRevB.6.3160 {'id': '767'}
-w1f1 10.1103/PhysRevB.6.3053 {'id': '768'}
-10.1103/PhysRevB.10.3711 o5q3 {'id': '924'}
-h1u2 10.1103/PhysRevA.10.1162 {'id': '745'}
-h1u2 10.1103/PhysRevA.6.125 {'id': '746'}
-10.1103/PhysRevC.8.725 c3l1 {'id': '771'}
-10.1103/PhysRevC.8.725 w3c1 {'id': '772'}
-10.1103/PhysRevB.1.1468 v1o1 {'id': '773'}
-o6g1 10.1103/PhysRevA.3.234 {'id': '774'}
-10.1103/PhysRevB.3.2929 v2e3 {'id': '775'}
-10.1103/PhysRevB.3.2929 b4k1 {'id': '776'}
-10.1103/PhysRevB.3.2929 r2m2 {'id': '777'}
-10.1103/PhysRevD.7.1541 d5f3 {'id': '778'}
-k3x2 10.1103/PhysRevD.8.1815 {'id': '779'}
-k3x2 10.1103/PhysRevD.9.1706 {'id': '780'}
-10.1103/PhysRevB.7.921 b1r2 {'id': '781'}
-o3p1 10.1103/PhysRevB.8.3056 {'id': '783'}
-o3p1 10.1103/PhysRevB.9.3630 {'id': '784'}
-o3p1 10.1103/PhysRevB.4.4623 {'id': '790'}
-o3p1 10.1103/PhysRevB.7.5153 {'id': '786'}
-o3p1 10.1103/PhysRevB.9.4362 {'id': '787'}
-o3p1 10.1103/PhysRevB.6.2178 {'id': '788'}
-o3p1 10.1103/PhysRevB.9.2539 {'id': '789'}
-o3p1 10.1103/PhysRevB.8.693 {'id': '785'}
-o3p1 10.1103/PhysRevB.5.3308 {'id': '791'}
-o3p1 10.1103/PhysRevB.5.2130 {'id': '792'}
-10.1103/PhysRevA.6.1248 o4k3 {'id': '620'}
-10.1103/PhysRevA.6.1248 h1m3 {'id': '794'}
-10.1103/PhysRevA.6.1248 v1o1 {'id': '793'}
-e4x3 10.1103/PhysRevD.2.2728 {'id': '795'}
-e4x3 10.1103/PhysRevD.5.694 {'id': '796'}
-10.1103/PhysRevC.9.1506 q4g1 {'id': '797'}
-10.1103/PhysRevB.5.3369 g5v1 {'id': '798'}
-10.1103/PhysRevB.4.2765 b3y3 {'id': '799'}
-k3v1 10.1103/PhysRevC.10.1189 {'id': '800'}
-k3v2 10.1103/PhysRevB.4.2741 {'id': '801'}
-10.1103/PhysRevB.5.4987 e3y3 {'id': '802'}
-10.1103/PhysRevB.5.4987 v2k3 {'id': '803'}
-10.1103/PhysRevB.5.4987 e1k1 {'id': '804'}
-10.1103/PhysRevB.6.2978 k5g3 {'id': '805'}
-g2q3 10.1103/PhysRevB.4.2746 {'id': '806'}
-10.1103/PhysRevD.8.1144 x3q2 {'id': '807'}
-10.1103/PhysRevB.10.3273 g6d2 {'id': '811'}
-10.1103/PhysRevC.10.2568 y3h2 {'id': '812'}
-10.1103/PhysRevB.9.2513 m6w2 {'id': '813'}
-10.1103/PhysRevB.9.2513 g3c1 {'id': '814'}
-v5u3 10.1103/PhysRevB.8.2975 {'id': '153'}
-10.1103/PhysRevA.9.2761 l6m2 {'id': '816'}
-10.1103/PhysRevD.10.2831 f5v1 {'id': '817'}
-10.1103/PhysRevB.2.3906 y1y2 {'id': '818'}
-z1q2 10.1103/PhysRevC.6.572 {'id': '819'}
-j3p2 10.1103/PhysRevB.7.2626 {'id': '820'}
-p6s3 10.1103/PhysRevA.9.2167 {'id': '974'}
-p6s3 10.1103/PhysRevD.7.1936 {'id': '1014'}
-p6s3 10.1103/PhysRevA.1.1696 {'id': '1066'}
-p6s3 10.1103/PhysRevA.9.1021 {'id': '1034'}
-10.1103/PhysRevB.4.2111 p6x3 {'id': '823'}
-x6u3 10.1103/PhysRevB.9.3609 {'id': '951'}
-x6u3 10.1103/PhysRevB.10.779 {'id': '1033'}
-x6u2 10.1103/PhysRevB.5.3160 {'id': '824'}
-10.1103/PhysRevB.8.5028 f1d1 {'id': '825'}
-10.1103/PhysRevB.8.5028 g1j3 {'id': '826'}
-10.1103/PhysRevB.8.5028 v3s2 {'id': '827'}
-10.1103/PhysRevB.8.5028 z4p1 {'id': '828'}
-10.1103/PhysRevB.1.3993 t2e3 {'id': '334'}
-a5e3 10.1103/PhysRevA.9.1733 {'id': '1062'}
-m1h2 10.1103/PhysRevB.8.3305 {'id': '1078'}
-10.1103/PhysRevD.3.3142 u1z1 {'id': '830'}
-10.1103/PhysRevB.7.5153 w6z1 {'id': '831'}
-l6m2 10.1103/PhysRevA.5.392 {'id': '256'}
-l6m2 10.1103/PhysRevD.1.118 {'id': '1051'}
-l6m2 10.1103/PhysRevD.5.694 {'id': '978'}
-l6m2 10.1103/PhysRevD.6.3641 {'id': '1036'}
-l6m2 10.1103/PhysRevD.3.266 {'id': '1104'}
-l6m2 10.1103/PhysRevD.2.2728 {'id': '1137'}
-l6m2 10.1103/PhysRevD.4.2768 {'id': '1042'}
-l6m2 10.1103/PhysRevLett.27.693 {'id': '1133'}
-10.1103/PhysRevA.6.1063 f5j3 {'id': '833'}
-10.1103/PhysRevA.7.571 n4y2 {'id': '835'}
-10.1103/PhysRevA.7.571 q1v3 {'id': '836'}
-s3m3 10.1103/PhysRevC.1.1498 {'id': '588'}
-s3m2 10.1103/PhysRevD.9.1706 {'id': '24'}
-v5g3 10.1103/PhysRevB.8.5532 {'id': '839'}
-10.1103/PhysRevD.9.2789 k3w2 {'id': '840'}
-d6n2 10.1103/PhysRevA.6.125 {'id': '478'}
-d6n3 10.1103/PhysRevC.8.2277 {'id': '842'}
-10.1103/PhysRevD.8.1863 z3r3 {'id': '843'}
-10.1103/PhysRevD.8.1863 f4x3 {'id': '844'}
-10.1103/PhysRevD.10.366 p5h3 {'id': '845'}
-10.1103/PhysRevD.10.366 t1t3 {'id': '846'}
-10.1103/PhysRevB.6.1399 u4q1 {'id': '847'}
-10.1103/PhysRevB.4.3901 n1w2 {'id': '848'}
-10.1103/PhysRevA.7.907 q4a2 {'id': '849'}
-l6t3 10.1103/PhysRevA.10.1162 {'id': '604'}
-10.1103/PhysRevLett.25.1125 n2t2 {'id': '852'}
-10.1103/PhysRevLett.26.737 q1v3 {'id': '942'}
-s4j1 10.1103/PhysRevC.4.944 {'id': '199'}
-10.1103/PhysRevD.7.1491 x3q2 {'id': '1112'}
-t2e3 10.1103/PhysRevB.2.3249 {'id': '335'}
-10.1103/PhysRevB.8.676 s4z3 {'id': '859'}
-10.1103/PhysRevB.8.676 e5d2 {'id': '860'}
-10.1103/PhysRevB.9.1958 o2o1 {'id': '861'}
-10.1103/PhysRevD.1.200 f4x3 {'id': '862'}
-10.1103/PhysRevD.1.200 h6t1 {'id': '863'}
-d2f1 10.1103/PhysRevD.6.2649 {'id': '865'}
-d2f1 10.1103/PhysRevD.4.1916 {'id': '866'}
-d2f1 10.1103/PhysRevD.3.3213 {'id': '867'}
-10.1103/PhysRevC.7.103 y2f3 {'id': '868'}
-10.1103/PhysRevC.8.282 z1f2 {'id': '869'}
-10.1103/PhysRevC.7.74 u5r3 {'id': '494'}
-10.1103/PhysRevC.7.74 k1v2 {'id': '495'}
-10.1103/PhysRevB.7.868 o4f3 {'id': '871'}
-10.1103/PhysRevC.10.774 p5l1 {'id': '755'}
-f2d1 10.1103/PhysRevD.10.2869 {'id': '873'}
-10.1103/PhysRevB.8.693 s6q1 {'id': '810'}
-g3d1 10.1103/PhysRevC.4.990 {'id': '874'}
-10.1103/PhysRevB.9.3313 q4z3 {'id': '875'}
-c1l3 10.1103/PhysRevC.10.425 {'id': '876'}
-10.1103/PhysRevB.10.4014 x6a3 {'id': '877'}
-k5g3 10.1103/PhysRevB.10.2764 {'id': '878'}
-a1p1 10.1103/PhysRevB.6.2026 {'id': '879'}
-10.1103/PhysRevB.8.5967 e1c3 {'id': '880'}
-r4o3 10.1103/PhysRevD.2.2955 {'id': '881'}
-w1b3 10.1103/PhysRevD.2.2414 {'id': '883'}
-10.1103/PhysRevA.1.337 v1o1 {'id': '1096'}
-10.1103/PhysRevA.1.337 h1m3 {'id': '1081'}
-10.1103/PhysRevA.1.337 o4k3 {'id': '624'}
-10.1103/PhysRevLett.30.906 h5z1 {'id': '884'}
-10.1103/PhysRevLett.30.906 a3v2 {'id': '885'}
-10.1103/PhysRevLett.30.906 b5t1 {'id': '886'}
-d5f3 10.1103/PhysRevD.4.1409 {'id': '888'}
-d5f3 10.1103/PhysRevD.10.2869 {'id': '889'}
-d5f3 10.1103/PhysRevD.1.338 {'id': '890'}
-d5f3 10.1103/PhysRevC.1.35 {'id': '891'}
-d5f3 10.1103/PhysRevD.9.2547 {'id': '892'}
-d5f3 10.1103/PhysRevC.1.895 {'id': '893'}
-r6v3 10.1103/PhysRevC.4.2165 {'id': '894'}
-r6v3 10.1103/PhysRevLett.25.386 {'id': '895'}
-o4k3 10.1103/PhysRevA.7.586 {'id': '619'}
-o4k3 10.1103/PhysRevA.5.746 {'id': '621'}
-o4k3 10.1103/PhysRevA.7.109 {'id': '622'}
-o4k3 10.1103/PhysRevA.4.1873 {'id': '625'}
-n6m3 10.1103/PhysRevB.3.2087 {'id': '897'}
-n6m3 10.1103/PhysRevB.2.248 {'id': '898'}
-r2o2 10.1103/PhysRevD.10.3070 {'id': '345'}
-r2o2 10.1103/PhysRevD.8.258 {'id': '346'}
-w6e1 10.1103/PhysRevC.2.1191 {'id': '900'}
-s4x2 10.1103/PhysRevB.4.2741 {'id': '594'}
-10.1103/PhysRevC.3.247 f6r2 {'id': '903'}
-10.1103/PhysRevB.4.4363 v1o1 {'id': '904'}
-s1s1 10.1103/PhysRevD.3.729 {'id': '905'}
-10.1103/PhysRevD.5.1370 e4y2 {'id': '685'}
-y3h2 10.1103/PhysRevC.5.153 {'id': '906'}
-y3h2 10.1103/PhysRevC.7.1864 {'id': '907'}
-10.1103/PhysRevA.5.746 v1o1 {'id': '908'}
-10.1103/PhysRevA.5.746 h1m3 {'id': '909'}
-d1m2 10.1103/PhysRevA.9.1733 {'id': '142'}
-10.1103/PhysRevD.10.988 b1k2 {'id': '912'}
-f6v1 10.1103/PhysRevD.7.1018 {'id': '913'}
-10.1103/PhysRevB.7.1016 r6l1 {'id': '914'}
-10.1103/PhysRevB.2.4971 l2u1 {'id': '915'}
-j1q3 10.1103/PhysRevD.1.3459 {'id': '916'}
-j1q3 10.1103/PhysRevD.5.1824 {'id': '917'}
-b6k1 10.1103/PhysRevC.6.1394 {'id': '854'}
-b6k1 10.1103/PhysRevC.6.321 {'id': '918'}
-b6k1 10.1103/PhysRevC.9.1515 {'id': '919'}
-u1z1 10.1103/PhysRevD.3.3133 {'id': '920'}
-10.1103/PhysRevD.5.2896 m3w1 {'id': '921'}
-10.1103/PhysRevA.8.236 x4e3 {'id': '922'}
-10.1103/PhysRevA.8.236 q1v3 {'id': '923'}
-q3f3 10.1103/PhysRevC.5.1270 {'id': '829'}
-10.1103/PhysRevLett.28.1136 e4r2 {'id': '926'}
-10.1103/PhysRevLett.25.386 l1p1 {'id': '927'}
-10.1103/PhysRevLett.28.1133 g1j3 {'id': '928'}
-10.1103/PhysRevLett.28.1133 z4p1 {'id': '838'}
-10.1103/PhysRevLett.28.1133 f1d1 {'id': '929'}
-10.1103/PhysRevLett.28.1133 v3s2 {'id': '930'}
-k1z1 10.1103/PhysRevB.2.3021 {'id': '257'}
-k1z1 10.1103/PhysRevB.7.4813 {'id': '931'}
-10.1103/PhysRevB.4.4623 w6z1 {'id': '933'}
-10.1103/PhysRevD.10.2869 d6s1 {'id': '934'}
-10.1103/PhysRevD.8.3233 z2s2 {'id': '935'}
-b3a1 10.1103/PhysRevC.5.911 {'id': '936'}
-10.1103/PhysRevD.7.3590 c4a1 {'id': '937'}
-10.1103/PhysRevC.4.2165 l1p1 {'id': '940'}
-10.1103/PhysRevB.9.4673 c2c3 {'id': '941'}
-10.1103/PhysRevB.9.4673 c6k1 {'id': '167'}
-r3g2 10.1103/PhysRevB.7.5000 {'id': '943'}
-10.1103/PhysRevB.1.642 k5d1 {'id': '899'}
-10.1103/PhysRevB.1.642 u4z2 {'id': '872'}
-10.1103/PhysRevB.6.4879 b2r2 {'id': '945'}
-10.1103/PhysRevB.5.2130 w6z1 {'id': '946'}
-q4a2 10.1103/PhysRevA.8.697 {'id': '947'}
-q4a2 10.1103/PhysRevA.9.725 {'id': '948'}
-q4a2 10.1103/PhysRevA.8.3227 {'id': '949'}
-n1v1 10.1103/PhysRevD.5.1068 {'id': '969'}
-10.1103/PhysRevD.9.2068 y2x3 {'id': '950'}
-a4j1 10.1103/PhysRevB.3.4391 {'id': '938'}
-t4t2 10.1103/PhysRevB.8.3051 {'id': '953'}
-x5e1 10.1103/PhysRevD.9.2547 {'id': '939'}
-10.1103/PhysRevA.8.849 f5j3 {'id': '954'}
-10.1103/PhysRevC.2.2444 s5p3 {'id': '955'}
-10.1103/PhysRevD.3.1165 k6r3 {'id': '956'}
-10.1103/PhysRevD.2.1952 k6r3 {'id': '957'}
-10.1103/PhysRevD.2.1952 w4v1 {'id': '958'}
-t3w1 10.1103/PhysRevA.9.2167 {'id': '575'}
-10.1103/PhysRevD.2.1955 k6r3 {'id': '960'}
-10.1103/PhysRevC.1.895 a3f1 {'id': '961'}
-10.1103/PhysRevC.7.1166 t4w1 {'id': '944'}
-10.1103/PhysRevD.8.3626 t6l3 {'id': '962'}
-10.1103/PhysRevD.6.2649 w5p2 {'id': '963'}
-y6c2 10.1103/PhysRevB.8.4053 {'id': '964'}
-y6c2 10.1103/PhysRevB.8.4057 {'id': '965'}
-10.1103/PhysRevB.3.3901 v1o1 {'id': '968'}
-10.1103/PhysRevD.5.1068 a1s1 {'id': '970'}
-10.1103/PhysRevD.5.1068 t2t2 {'id': '971'}
-10.1103/PhysRevD.5.1068 e3h2 {'id': '972'}
-10.1103/PhysRevC.6.476 l5y2 {'id': '973'}
-h5d1 10.1103/PhysRevB.3.673 {'id': '549'}
-m6s1 10.1103/PhysRevD.10.3070 {'id': '975'}
-o2o1 10.1103/PhysRevB.10.779 {'id': '976'}
-10.1103/PhysRevB.2.3415 y1b1 {'id': '977'}
-10.1103/PhysRevB.2.3415 t6y2 {'id': '661'}
-10.1103/PhysRevB.9.3517 s2l2 {'id': '980'}
-l6b2 10.1103/PhysRevC.7.1294 {'id': '981'}
-l6b2 10.1103/PhysRevC.9.2076 {'id': '821'}
-l6b2 10.1103/PhysRevC.5.1422 {'id': '154'}
-h1m3 10.1103/PhysRevA.7.586 {'id': '1080'}
-h1m3 10.1103/PhysRevA.7.109 {'id': '1082'}
-h1m3 10.1103/PhysRevA.4.1873 {'id': '1055'}
-e1z2 10.1103/PhysRevD.1.1445 {'id': '982'}
-10.1103/PhysRevB.10.2857 p6x3 {'id': '1131'}
-y2f3 10.1103/PhysRevC.3.2095 {'id': '1039'}
-f2q1 10.1103/PhysRevA.9.725 {'id': '985'}
-w2p3 10.1103/PhysRevB.2.4053 {'id': '858'}
-w2p1 10.1103/PhysRevB.7.5316 {'id': '987'}
-w2p1 10.1103/PhysRevB.5.3165 {'id': '988'}
-a2m3 10.1103/PhysRevD.7.2884 {'id': '989'}
-n4m1 10.1103/PhysRevC.8.2115 {'id': '990'}
-a3g2 10.1103/PhysRevC.5.1270 {'id': '1111'}
-10.1103/PhysRevA.5.1755 q3q2 {'id': '967'}
-10.1103/PhysRevC.7.350 q4y1 {'id': '992'}
-r5l2 10.1103/PhysRevLett.27.259 {'id': '870'}
-10.1103/PhysRevC.2.1191 f5f1 {'id': '994'}
-10.1103/PhysRevC.1.1498 w4r2 {'id': '995'}
-v1k2 10.1103/PhysRevD.10.298 {'id': '996'}
-z2s2 10.1103/PhysRevLett.28.1005 {'id': '997'}
-p6b2 10.1103/PhysRevB.4.2746 {'id': '769'}
-y2v3 10.1103/PhysRevC.2.2278 {'id': '1000'}
-f6r2 10.1103/PhysRevC.3.254 {'id': '1001'}
-10.1103/PhysRevD.8.258 k3w2 {'id': '1050'}
-10.1103/PhysRevD.8.258 b2g2 {'id': '1128'}
-r6l1 10.1103/PhysRevB.9.3935 {'id': '1002'}
-r6l1 10.1103/PhysRevB.8.168 {'id': '1003'}
-o2v1 10.1103/PhysRevD.9.63 {'id': '1004'}
-h4w2 10.1103/PhysRevB.1.4635 {'id': '1006'}
-h4w2 10.1103/PhysRevB.4.4636 {'id': '1005'}
-k2z2 10.1103/PhysRevC.6.321 {'id': '1041'}
-g3c1 10.1103/PhysRevB.6.2285 {'id': '1008'}
-g3c1 10.1103/PhysRevLett.27.1571 {'id': '1009'}
-h6g2 10.1103/PhysRevC.8.1149 {'id': '932'}
-10.1103/PhysRevB.3.331 k5d1 {'id': '1010'}
-h3m2 10.1103/PhysRevB.10.219 {'id': '837'}
-10.1103/PhysRevC.6.2304 v4r2 {'id': '770'}
-10.1103/PhysRevB.3.4391 m2n2 {'id': '1013'}
-v3p3 10.1103/PhysRevB.4.1306 {'id': '1015'}
-v3p3 10.1103/PhysRevB.5.1535 {'id': '1016'}
-v3p3 10.1103/PhysRevB.4.498 {'id': '711'}
-w5p2 10.1103/PhysRevD.4.1916 {'id': '1017'}
-w5p2 10.1103/PhysRevD.3.3213 {'id': '1018'}
-10.1103/PhysRevB.10.3412 w6h1 {'id': '1019'}
-v6y1 10.1103/PhysRevD.3.729 {'id': '1021'}
-10.1103/PhysRevD.9.844 y1w2 {'id': '1022'}
-10.1103/PhysRevD.9.844 f3e3 {'id': '1023'}
-10.1103/PhysRevB.6.2414 b2r2 {'id': '1024'}
-10.1103/PhysRevD.10.2384 n2t2 {'id': '1121'}
-q1v3 10.1103/PhysRevA.5.2122 {'id': '1026'}
-f4x3 10.1103/PhysRevD.2.941 {'id': '474'}
-f4x3 10.1103/PhysRevD.5.496 {'id': '1027'}
-10.1103/PhysRevB.2.4288 j2x3 {'id': '1028'}
-10.1103/PhysRevA.8.1630 o3f2 {'id': '1029'}
-q3q2 10.1103/PhysRevLett.28.583 {'id': '966'}
-10.1103/PhysRevB.9.3935 q4a1 {'id': '1030'}
-10.1103/PhysRevB.10.775 g3f2 {'id': '1031'}
-10.1103/PhysRevB.10.775 t2q3 {'id': '1032'}
-10.1103/PhysRevD.10.1655 l6j3 {'id': '979'}
-10.1103/PhysRevD.2.941 z3r3 {'id': '473'}
-d6d2 10.1103/PhysRevB.7.3131 {'id': '1035'}
-10.1103/PhysRevD.7.1587 y1w2 {'id': '901'}
-10.1103/PhysRevD.7.1587 f3e3 {'id': '902'}
-10.1103/PhysRevB.10.4801 o4g1 {'id': '1037'}
-10.1103/PhysRevB.10.4801 h3j1 {'id': '1038'}
-b2y3 10.1103/PhysRevD.9.839 {'id': '1040'}
-u6o2 10.1103/PhysRevC.3.785 {'id': '569'}
-10.1103/PhysRevD.5.2835 v5o2 {'id': '1043'}
-10.1103/PhysRevD.5.2835 n5a1 {'id': '401'}
-10.1103/PhysRevA.9.2128 y4f3 {'id': '646'}
-10.1103/PhysRevC.9.1515 f2k3 {'id': '1045'}
-10.1103/PhysRevB.8.168 q4a1 {'id': '1046'}
-10.1103/PhysRevD.2.2125 y1w2 {'id': '1047'}
-y1y2 10.1103/PhysRevB.4.1794 {'id': '1048'}
-k3w2 10.1103/PhysRevD.10.3070 {'id': '1049'}
-10.1103/PhysRevB.4.1005 a2g1 {'id': '1052'}
-10.1103/PhysRevD.10.3691 y2x3 {'id': '1053'}
-10.1103/PhysRevA.4.1873 v1o1 {'id': '1054'}
-10.1103/PhysRevC.1.2000 g3p3 {'id': '197'}
-10.1103/PhysRevB.8.3056 w6z1 {'id': '1056'}
-10.1103/PhysRevD.9.288 y2x3 {'id': '896'}
-10.1103/PhysRevC.3.1936 n2k3 {'id': '1058'}
-o2x1 10.1103/PhysRevD.1.2945 {'id': '1044'}
-10.1103/PhysRevB.8.2975 f1d1 {'id': '1059'}
-p6x3 10.1103/PhysRevB.7.1850 {'id': '1132'}
-p6x3 10.1103/PhysRevB.8.3305 {'id': '1084'}
-t1t3 10.1103/PhysRevD.1.166 {'id': '1060'}
-c5t2 10.1103/PhysRevD.3.1378 {'id': '1061'}
-c5t2 10.1103/PhysRevD.1.377 {'id': '998'}
-z3r3 10.1103/PhysRevD.5.496 {'id': '1063'}
-10.1103/PhysRevD.10.2186 k6r3 {'id': '1064'}
-10.1103/PhysRevD.10.3076 r6y3 {'id': '761'}
-f2u2 10.1103/PhysRevC.9.1965 {'id': '983'}
-q3h2 10.1103/PhysRevB.1.809 {'id': '1065'}
-10.1103/PhysRevC.9.1965 v3p2 {'id': '984'}
-z4v2 10.1103/PhysRevD.1.649 {'id': '649'}
-z4v2 10.1103/PhysRevD.6.1153 {'id': '832'}
-10.1103/PhysRevC.9.2076 v3p2 {'id': '822'}
-v3p2 10.1103/PhysRevC.7.1294 {'id': '1067'}
-v3p2 10.1103/PhysRevC.5.1422 {'id': '155'}
-10.1103/PhysRevD.8.1808 e4y2 {'id': '1068'}
-j2t3 10.1103/PhysRevC.5.1270 {'id': '1069'}
-10.1103/PhysRevC.8.2115 o2u1 {'id': '1070'}
-10.1103/PhysRevB.1.4635 o4f3 {'id': '1071'}
-10.1103/PhysRevLett.27.259 c1a2 {'id': '1072'}
-10.1103/PhysRevA.6.1214 p6e2 {'id': '207'}
-10.1103/PhysRevB.7.4640 t2q3 {'id': '1074'}
-10.1103/PhysRevB.3.3574 h1w1 {'id': '1075'}
-10.1103/PhysRevB.3.3574 k5d1 {'id': '1076'}
-g5q2 10.1103/PhysRevD.1.649 {'id': '648'}
-u5d3 10.1103/PhysRevA.5.918 {'id': '1020'}
-10.1103/PhysRevD.7.3670 x3q2 {'id': '1077'}
-10.1103/PhysRevB.4.1220 u4q1 {'id': '1091'}
-k2t3 10.1103/PhysRevA.1.497 {'id': '1079'}
-10.1103/PhysRevB.3.673 g1j3 {'id': '550'}
-m5k3 10.1103/PhysRevA.5.1564 {'id': '411'}
-x6a3 10.1103/PhysRevB.7.1850 {'id': '1085'}
-b6b3 10.1103/PhysRevC.7.874 {'id': '1086'}
-10.1103/PhysRevD.9.3513 y2x3 {'id': '1087'}
-10.1103/PhysRevB.3.2087 o5l1 {'id': '1057'}
-10.1103/PhysRevB.8.4053 r2m2 {'id': '1129'}
-a3f1 10.1103/PhysRevD.5.1824 {'id': '1088'}
-10.1103/PhysRevA.7.586 v1o1 {'id': '1090'}
-10.1103/PhysRevB.9.4362 s6q1 {'id': '808'}
-f5f1 10.1103/PhysRevC.7.874 {'id': '1092'}
-s6q1 10.1103/PhysRevB.9.2539 {'id': '809'}
-q5z3 10.1103/PhysRevD.3.1378 {'id': '1093'}
-q5z3 10.1103/PhysRevD.1.377 {'id': '999'}
-10.1103/PhysRevB.5.4143 u1t3 {'id': '1094'}
-10.1103/PhysRevB.5.4143 t2q3 {'id': '1095'}
-v1o1 10.1103/PhysRevB.2.1411 {'id': '1097'}
-v1o1 10.1103/PhysRevA.7.109 {'id': '1098'}
-w1d2 10.1103/PhysRevC.10.425 {'id': '1099'}
-t2q3 10.1103/PhysRevA.5.1564 {'id': '1101'}
-10.1103/PhysRevD.4.3759 e4m1 {'id': '1102'}
-10.1103/PhysRevD.7.2884 e4y2 {'id': '1103'}
-10.1103/PhysRevB.4.4636 o4f3 {'id': '1105'}
-f4e2 10.1103/PhysRevD.10.3044 {'id': '1106'}
-10.1103/PhysRevC.4.652 l5y2 {'id': '1107'}
-10.1103/PhysRevD.10.308 y2x3 {'id': '1117'}
-10.1103/PhysRevD.10.308 o3y2 {'id': '683'}
-10.1103/PhysRevB.3.3597 n6f1 {'id': '864'}
-10.1103/PhysRevB.3.3597 k6k3 {'id': '1025'}
-10.1103/PhysRevB.3.2619 b2r2 {'id': '1108'}
-w6z1 10.1103/PhysRevB.9.3630 {'id': '1109'}
-w6z1 10.1103/PhysRevB.6.2178 {'id': '1110'}
-n3z2 10.1103/PhysRevB.9.3113 {'id': '502'}
-e1r2 10.1103/PhysRevB.7.3131 {'id': '1113'}
-10.1103/PhysRevD.9.2056 k6r3 {'id': '1114'}
-10.1103/PhysRevC.4.990 x3g1 {'id': '1115'}
-10.1103/PhysRevD.1.166 q4z1 {'id': '1118'}
-10.1103/PhysRevB.1.2207 a2y2 {'id': '1119'}
-u1t3 10.1103/PhysRevA.5.918 {'id': '1120'}
-x5x1 10.1103/PhysRevB.9.2073 {'id': '841'}
-x5x1 10.1103/PhysRevB.4.1382 {'id': '952'}
-10.1103/PhysRevB.2.248 o5l1 {'id': '1122'}
-c1a2 10.1103/PhysRevB.1.3426 {'id': '1123'}
-v5y3 10.1103/PhysRevLett.24.28 {'id': '1124'}
-v5y3 10.1103/PhysRevLett.26.530 {'id': '1089'}
-10.1103/PhysRevB.8.1503 s4z3 {'id': '1125'}
-10.1103/PhysRevB.6.3053 h6f3 {'id': '1126'}
-b2g2 10.1103/PhysRevB.1.3426 {'id': '1127'}
-10.1103/PhysRevB.8.4057 r2m2 {'id': '1130'}
-10.1103/PhysRevB.5.3488 g1j3 {'id': '1134'}
-10.1103/PhysRevC.6.321 f2k3 {'id': '1135'}
-k6r3 10.1103/PhysRevD.10.2191 {'id': '1136'}
-10.1103/PhysRevC.6.1394 f2k3 {'id': '855'}
+10.1103/PhysRevB.2.8 h2m3
+10.1103/PhysRevB.4.2071 u3q3
+10.1103/PhysRevB.4.2071 x5t2
+10.1103/PhysRevC.9.336 b6k1
+10.1103/PhysRevC.9.336 n6m2
+10.1103/PhysRevC.9.336 f2k3
+10.1103/PhysRevD.10.1366 t6l3
+10.1103/PhysRevD.10.1366 r2e3
+10.1103/PhysRevD.10.2849 a1c3
+10.1103/PhysRevD.10.2849 z3d3
+10.1103/PhysRevD.2.278 s3l2
+10.1103/PhysRevB.10.283 c1g1
+10.1103/PhysRevB.10.283 b4z1
+10.1103/PhysRevA.10.1188 z4t3
+10.1103/PhysRevA.10.1188 j6h3
+10.1103/PhysRevD.4.267 y3l2
+10.1103/PhysRevC.6.1789 n5t1
+10.1103/PhysRevC.6.1789 p3q2
+10.1103/PhysRevC.6.2177 y3h2
+10.1103/PhysRevB.1.2243 t3q2
+10.1103/PhysRevB.8.2982 e3y3
+10.1103/PhysRevB.8.2982 v2k3
+10.1103/PhysRevA.1.1772 j1a3
+10.1103/PhysRevB.8.5563 u3q3
+10.1103/PhysRevB.8.5563 w1f1
+10.1103/PhysRevD.10.1619 e1f2
+10.1103/PhysRevD.10.1619 k3w2
+10.1103/PhysRevA.3.1666 o4k3
+10.1103/PhysRevA.3.1666 h1m3
+10.1103/PhysRevA.3.1666 v1o1
+10.1103/PhysRevB.7.2378 o3p1
+10.1103/PhysRevB.7.2378 w6z1
+10.1103/PhysRevB.7.2378 u4z2
+10.1103/PhysRevA.2.2159 k2t3
+10.1103/PhysRevC.6.866 b2e2
+10.1103/PhysRevC.6.866 k3v1
+10.1103/PhysRevB.8.1397 o3p1
+10.1103/PhysRevB.8.1397 u4z2
+10.1103/PhysRevD.2.1934 m3w1
+10.1103/PhysRevD.2.1934 e1z2
+10.1103/PhysRevD.2.1934 y2p2
+10.1103/PhysRevA.4.1705 p3v1
+10.1103/PhysRevA.4.1705 w4l1
+10.1103/PhysRevA.4.1705 n4y2
+10.1103/PhysRevB.7.2876 x5t2
+10.1103/PhysRevLett.27.439 p5u1
+10.1103/PhysRevB.7.2872 o1h1
+10.1103/PhysRevB.10.3518 a2a3
+10.1103/PhysRevB.10.3518 z5s1
+10.1103/PhysRevB.10.872 k6e2
+10.1103/PhysRevB.7.2879 u3q3
+10.1103/PhysRevB.7.2879 x5t2
+10.1103/PhysRevB.5.2325 s4z3
+10.1103/PhysRevB.5.2325 x5x1
+10.1103/PhysRevB.5.2325 g6l1
+10.1103/PhysRevA.2.2568 x2a1
+10.1103/PhysRevA.2.2568 n2k3
+10.1103/PhysRevLett.33.709 c3p3
+10.1103/PhysRevC.3.1877 l6m2
+10.1103/PhysRevD.3.1755 u3n3
+10.1103/PhysRevB.3.1141 o4f3
+10.1103/PhysRevB.3.1141 h4w2
+10.1103/PhysRevB.9.2000 y1d1
+10.1103/PhysRevB.9.2000 c6r2
+10.1103/PhysRevB.8.1499 e1e1
+10.1103/PhysRevB.8.1499 n1s3
+10.1103/PhysRevB.8.1499 h1u3
+10.1103/PhysRevB.8.3769 x2j1
+10.1103/PhysRevB.8.3769 d2g1
+10.1103/PhysRevB.8.3769 l1k2
+10.1103/PhysRevD.7.2252 d6t2
+10.1103/PhysRevLett.27.242 m3w3
+10.1103/PhysRevLett.27.242 t2q3
+10.1103/PhysRevB.7.4739 t5z3
+10.1103/PhysRevB.8.4668 k6h2
+10.1103/PhysRevB.8.4668 x2z2
+10.1103/PhysRevB.8.4668 g1f1
+10.1103/PhysRevB.8.4668 o3a3
+10.1103/PhysRevB.10.1564 h6f3
+10.1103/PhysRevB.10.1564 w5k3
+10.1103/PhysRevA.4.796 l4k1
+10.1103/PhysRevA.4.796 p6s3
+10.1103/PhysRevD.1.2638 v5y3
+10.1103/PhysRevD.1.2638 x2o1
+10.1103/PhysRevB.6.1021 r6u2
+10.1103/PhysRevB.6.1021 f1d1
+10.1103/PhysRevB.6.1021 g1j3
+10.1103/PhysRevB.6.1021 z4p1
+10.1103/PhysRevB.7.80 x4v2
+10.1103/PhysRevB.7.80 r6n2
+10.1103/PhysRevD.4.2963 t3n2
+10.1103/PhysRevD.4.2963 r1v2
+10.1103/PhysRevD.10.2396 t4r2
+10.1103/PhysRevD.10.2396 o3f2
+10.1103/PhysRevB.7.4741 k4e2
+10.1103/PhysRevB.7.4741 b4t1
+10.1103/PhysRevB.7.4741 v1o1
+10.1103/PhysRevB.3.3510 b3l1
+10.1103/PhysRevB.3.3510 e1k1
+10.1103/PhysRevB.4.4343 u3q3
+10.1103/PhysRevB.4.4343 k5d1
+10.1103/PhysRevD.7.2691 a1c3
+10.1103/PhysRevD.7.2691 x6k2
+10.1103/PhysRevB.7.1650 u3q3
+10.1103/PhysRevB.7.1650 a1p1
+10.1103/PhysRevB.9.3708 s3s1
+10.1103/PhysRevB.9.3708 k1k1
+10.1103/PhysRevB.3.1034 z1e2
+10.1103/PhysRevD.9.2465 q2n2
+10.1103/PhysRevD.9.2465 s6x2
+10.1103/PhysRevD.10.290 f4e2
+10.1103/PhysRevD.10.290 p4j1
+10.1103/PhysRevD.6.3032 y2p2
+10.1103/PhysRevB.7.4291 e4p3
+10.1103/PhysRevB.7.4291 s6d3
+10.1103/PhysRevB.7.4449 v2b1
+10.1103/PhysRevB.7.4449 e1c3
+10.1103/PhysRevA.3.390 u5d3
+10.1103/PhysRevA.3.390 u1t3
+10.1103/PhysRevA.3.390 t2q3
+10.1103/PhysRevA.3.390 m3w3
+10.1103/PhysRevC.5.1860 d4d3
+10.1103/PhysRevC.5.1860 r6q2
+10.1103/PhysRevD.2.405 u3n3
+10.1103/PhysRevD.2.405 t5h2
+10.1103/PhysRevA.6.1340 f1k2
+10.1103/PhysRevA.6.1340 t1c1
+10.1103/PhysRevD.6.2919 j4h2
+10.1103/PhysRevD.6.2919 c3w1
+10.1103/PhysRevD.6.1453 z4v2
+10.1103/PhysRevA.5.390 m3w3
+10.1103/PhysRevA.5.390 t2q3
+10.1103/PhysRevB.8.4671 p6o2
+10.1103/PhysRevB.8.4671 v1o1
+10.1103/PhysRevD.6.1217 d2f1
+10.1103/PhysRevD.6.1217 q5a1
+10.1103/PhysRevD.3.677 h1e1
+10.1103/PhysRevD.3.677 y2p2
+10.1103/PhysRevD.2.2713 b3w1
+10.1103/PhysRevD.2.2713 x3q2
+10.1103/PhysRevB.6.596 s4z3
+10.1103/PhysRevB.6.596 g6l1
+10.1103/PhysRevD.2.2899 f6v1
+10.1103/PhysRevB.6.2642 r6l1
+10.1103/PhysRevB.6.2642 q4a1
+10.1103/PhysRevA.8.2298 h5m2
+10.1103/PhysRevA.8.2298 r4v1
+10.1103/PhysRevB.1.627 e1g2
+10.1103/PhysRevB.1.627 u4q1
+10.1103/PhysRevC.6.738 n5a1
+10.1103/PhysRevC.6.738 o4e1
+10.1103/PhysRevA.7.1544 w4l1
+10.1103/PhysRevA.7.1544 t5r1
+10.1103/PhysRevA.7.1544 q1v3
+10.1103/PhysRevA.7.319 j1a3
+10.1103/PhysRevA.7.319 t4x3
+10.1103/PhysRevB.3.1985 u3q3
+10.1103/PhysRevB.3.1985 v3p3
+10.1103/PhysRevB.3.1985 x5t2
+10.1103/PhysRevB.4.2774 o3p1
+10.1103/PhysRevB.4.2774 g2m1
+10.1103/PhysRevB.8.385 z6s2
+10.1103/PhysRevB.8.385 v4r3
+10.1103/PhysRevC.1.619 s4j1
+10.1103/PhysRevC.1.619 j6s2
+10.1103/PhysRevB.8.6035 v2b1
+10.1103/PhysRevB.8.6035 k5g3
+10.1103/PhysRevLett.32.284 t6y1
+10.1103/PhysRevLett.32.284 v2l1
+10.1103/PhysRevLett.32.284 v6f1
+10.1103/PhysRevLett.32.284 x3q1
+10.1103/PhysRevLett.32.284 q1d3
+10.1103/PhysRevD.1.3496 d5f3
+10.1103/PhysRevD.1.3496 y3o2
+10.1103/PhysRevA.3.1780 z1o2
+10.1103/PhysRevA.3.1780 m3w3
+10.1103/PhysRevA.3.1780 t2q3
+10.1103/PhysRevB.4.225 y1y2
+10.1103/PhysRevB.4.225 g5v1
+10.1103/PhysRevD.10.1310 a1c3
+10.1103/PhysRevD.10.1310 h1e1
+10.1103/PhysRevD.10.3826 o2c3
+10.1103/PhysRevC.8.1167 p5u1
+10.1103/PhysRevC.8.1167 m2f1
+10.1103/PhysRevD.1.2135 d3n2
+10.1103/PhysRevA.9.2773 v2b1
+10.1103/PhysRevA.9.2773 w1e2
+10.1103/PhysRevB.3.3702 e5a1
+10.1103/PhysRevB.3.3702 k1z1
+10.1103/PhysRevD.1.3403 d5l1
+10.1103/PhysRevB.1.750 u3q3
+10.1103/PhysRevB.1.750 k5d1
+10.1103/PhysRevB.4.1770 g1w3
+10.1103/PhysRevB.4.1770 v1o1
+10.1103/PhysRevD.2.1902 b2k2
+10.1103/PhysRevA.10.2257 w4l1
+10.1103/PhysRevA.10.2257 t5r1
+10.1103/PhysRevA.10.2257 q1v3
+10.1103/PhysRevD.4.250 d5f3
+10.1103/PhysRevD.3.1136 l4u3
+10.1103/PhysRevD.9.2631 p2t1
+10.1103/PhysRevB.3.385 u3q3
+10.1103/PhysRevB.3.385 w2p1
+10.1103/PhysRevB.3.385 y3n2
+10.1103/PhysRevD.7.2111 d5f3
+10.1103/PhysRevD.7.2111 a6g1
+10.1103/PhysRevD.8.1653 y1w2
+10.1103/PhysRevD.8.1653 f3e3
+10.1103/PhysRevB.8.4039 b4t1
+10.1103/PhysRevB.8.4039 v1o1
+10.1103/PhysRevB.7.3649 v2b1
+10.1103/PhysRevB.8.4036 t2q3
+10.1103/PhysRevB.8.4036 s5d3
+10.1103/PhysRevB.2.1704 k4e2
+10.1103/PhysRevB.2.1704 v1o1
+10.1103/PhysRevA.4.1299 z1o2
+10.1103/PhysRevA.4.1299 o5j3
+10.1103/PhysRevA.4.1299 m3w3
+10.1103/PhysRevA.4.1299 t2q3
+10.1103/PhysRevA.4.1299 s5d3
+10.1103/PhysRevB.7.2942 f6y3
+10.1103/PhysRevB.7.2942 j6t2
+10.1103/PhysRevB.7.2942 u5g2
+10.1103/PhysRevB.7.2942 j5a2
+10.1103/PhysRevD.5.1546 c2b3
+10.1103/PhysRevB.7.897 u3q3
+10.1103/PhysRevB.7.897 h6f3
+10.1103/PhysRevD.5.1541 t5k1
+10.1103/PhysRevD.5.1541 j5o1
+10.1103/PhysRevB.1.287 p6x3
+10.1103/PhysRevB.1.2532 k4e2
+10.1103/PhysRevB.1.2532 v1o1
+10.1103/PhysRevC.1.1477 e4v3
+10.1103/PhysRevC.1.1477 t5a1
+10.1103/PhysRevC.1.1477 b5z3
+10.1103/PhysRevC.2.1279 a1z3
+10.1103/PhysRevC.2.1279 r3g3
+10.1103/PhysRevB.1.931 s1k1
+10.1103/PhysRevB.1.931 o5p1
+10.1103/PhysRevB.8.667 m6t1
+10.1103/PhysRevB.8.667 x1w2
+10.1103/PhysRevB.7.5165 j3k1
+10.1103/PhysRevB.7.5165 n5h1
+10.1103/PhysRevC.4.1510 p3q2
+10.1103/PhysRevC.4.1510 s5d2
+10.1103/PhysRevC.4.1510 n5t1
+10.1103/PhysRevD.5.2936 e1z1
+10.1103/PhysRevB.3.3390 s2l2
+10.1103/PhysRevB.3.3390 k5j3
+10.1103/PhysRevB.7.4665 o3p1
+10.1103/PhysRevB.7.4665 u4z2
+10.1103/PhysRevD.1.351 d5f3
+10.1103/PhysRevD.1.351 d3n2
+10.1103/PhysRevB.8.5557 d1m2
+10.1103/PhysRevB.8.5557 a5e3
+10.1103/PhysRevB.2.1405 t5t2
+10.1103/PhysRevB.2.1405 h2m3
+10.1103/PhysRevB.5.3909 h5e2
+10.1103/PhysRevB.5.3909 o4f3
+10.1103/PhysRevA.1.1567 f5j3
+10.1103/PhysRevA.1.1567 v1w2
+10.1103/PhysRevC.5.285 p5u1
+10.1103/PhysRevA.5.1252 h1q2
+10.1103/PhysRevA.5.1252 d6r2
+10.1103/PhysRevA.5.1252 f5j3
+10.1103/PhysRevA.9.631 q4a2
+10.1103/PhysRevA.9.631 r2e3
+10.1103/PhysRevA.9.631 f2q1
+10.1103/PhysRevLett.31.1453 q3e3
+10.1103/PhysRevLett.31.1453 o5q3
+10.1103/PhysRevA.7.1912 k6h2
+10.1103/PhysRevA.7.1912 k6q3
+10.1103/PhysRevA.8.2624 h4u3
+10.1103/PhysRevA.8.2624 m6j1
+10.1103/PhysRevD.10.1872 f4x3
+10.1103/PhysRevD.10.1872 e2t2
+10.1103/PhysRevLett.26.1609 y2x3
+10.1103/PhysRevLett.26.1609 f4y2
+10.1103/PhysRevA.7.1001 r5e3
+10.1103/PhysRevA.7.1001 z3v3
+10.1103/PhysRevA.7.1001 f6l2
+10.1103/PhysRevA.7.1001 r6q1
+10.1103/PhysRevA.7.1001 o4m3
+10.1103/PhysRevA.7.130 u5l3
+10.1103/PhysRevA.7.130 d6n2
+10.1103/PhysRevB.8.4880 q2u2
+10.1103/PhysRevB.8.4880 e2l2
+10.1103/PhysRevB.10.2934 o4f3
+10.1103/PhysRevB.10.2934 n3t2
+10.1103/PhysRevD.4.2849 v5o2
+10.1103/PhysRevD.4.2849 n5a1
+10.1103/PhysRevD.4.2849 x2w2
+10.1103/PhysRevD.3.1280 v5z2
+10.1103/PhysRevD.3.1280 e5t1
+10.1103/PhysRevC.5.1124 l1p1
+10.1103/PhysRevC.5.1124 r6v3
+10.1103/PhysRevC.5.1124 y4f2
+10.1103/PhysRevB.4.4379 k4e2
+10.1103/PhysRevB.4.4379 b4t1
+10.1103/PhysRevB.4.4379 v1o1
+10.1103/PhysRevB.7.424 x5x1
+10.1103/PhysRevB.7.424 x6b1
+10.1103/PhysRevB.2.4903 u3q3
+10.1103/PhysRevB.2.4903 l3w3
+10.1103/PhysRevB.2.4903 h1s2
+10.1103/PhysRevB.3.360 g5d1
+10.1103/PhysRevB.3.360 u4q1
+10.1103/PhysRevB.8.843 h4a1
+10.1103/PhysRevB.8.843 x1b3
+10.1103/PhysRevB.6.2192 r5u1
+10.1103/PhysRevB.6.2192 f6c2
+10.1103/PhysRevB.6.2195 y2p1
+10.1103/PhysRevB.6.2195 t2q3
+10.1103/PhysRevB.6.2195 s5d3
+10.1103/PhysRevC.8.1433 y3h2
+10.1103/PhysRevD.4.3617 s1s1
+10.1103/PhysRevD.4.3617 v6y1
+10.1103/PhysRevD.4.3617 r2e3
+10.1103/PhysRevD.4.3617 m2s2
+10.1103/PhysRevD.4.3617 m6q3
+10.1103/PhysRevD.9.956 w1b3
+10.1103/PhysRevD.9.956 n1b2
+10.1103/PhysRevD.10.2165 t5k1
+10.1103/PhysRevD.10.2165 j5o1
+10.1103/PhysRevB.3.2816 l3w3
+10.1103/PhysRevD.6.2198 k3w2
+10.1103/PhysRevB.4.1632 o6g3
+10.1103/PhysRevB.4.1632 o2e2
+10.1103/PhysRevB.4.3527 o3p1
+10.1103/PhysRevB.4.3527 u4z2
+10.1103/PhysRevB.1.488 u3q3
+10.1103/PhysRevB.1.488 l3w3
+10.1103/PhysRevB.2.915 g1w3
+10.1103/PhysRevB.2.915 v1o1
+10.1103/PhysRevD.8.2337 b3w1
+10.1103/PhysRevD.8.2337 x3q2
+10.1103/PhysRevB.6.3509 a1p1
+10.1103/PhysRevC.8.1154 a2g1
+10.1103/PhysRevC.8.1154 p5u1
+10.1103/PhysRevD.4.270 x2w2
+10.1103/PhysRevC.3.480 y2f3
+10.1103/PhysRevB.9.703 d4g1
+10.1103/PhysRevB.9.703 t3o3
+10.1103/PhysRevC.5.12 k5p1
+10.1103/PhysRevC.5.12 z6y3
+10.1103/PhysRevD.10.3476 q2n2
+10.1103/PhysRevD.10.3476 s6x2
+10.1103/PhysRevC.8.472 h2q2
+10.1103/PhysRevB.5.1633 e1g2
+10.1103/PhysRevB.5.1633 u4q1
+10.1103/PhysRevC.3.992 l5y2
+10.1103/PhysRevC.3.992 m3v3
+10.1103/PhysRevLett.30.1046 o5d2
+10.1103/PhysRevB.3.501 u3q3
+10.1103/PhysRevB.3.501 k5d1
+10.1103/PhysRevB.7.644 r4q1
+10.1103/PhysRevB.7.644 c1x3
+10.1103/PhysRevC.7.840 a2f1
+10.1103/PhysRevC.7.840 s4j1
+10.1103/PhysRevD.10.1981 r2e3
+10.1103/PhysRevD.10.1981 e4y2
+10.1103/PhysRevD.10.1981 p2g1
+10.1103/PhysRevD.5.678 a1c3
+10.1103/PhysRevD.5.678 x6k2
+10.1103/PhysRevD.1.358 n5a1
+10.1103/PhysRevD.1.358 x2w2
+10.1103/PhysRevD.1.358 a6o3
+10.1103/PhysRevD.8.3706 e3h1
+10.1103/PhysRevD.8.3706 e6o3
+10.1103/PhysRevD.8.2939 y2x3
+10.1103/PhysRevD.8.2939 f4y2
+10.1103/PhysRevD.5.744 y3l2
+10.1103/PhysRevLett.30.620 z6t1
+10.1103/PhysRevLett.30.620 n6p2
+10.1103/PhysRevB.2.3943 x5e2
+10.1103/PhysRevB.2.3943 l6p3
+10.1103/PhysRevB.6.1589 j2x3
+10.1103/PhysRevB.6.1589 l1g1
+10.1103/PhysRevB.10.2652 v5g3
+10.1103/PhysRevB.10.2652 g1w3
+10.1103/PhysRevB.10.2654 n2z2
+10.1103/PhysRevD.6.2574 n2d2
+10.1103/PhysRevD.6.2574 r6n3
+10.1103/PhysRevB.5.2880 g1w3
+10.1103/PhysRevB.5.2880 v1o1
+10.1103/PhysRevA.4.2076 k4p3
+10.1103/PhysRevA.4.2076 e5b3
+10.1103/PhysRevA.4.2076 p3q3
+10.1103/PhysRevB.7.4338 d1m2
+10.1103/PhysRevB.7.4338 a5e3
+10.1103/PhysRevB.5.2335 o3p1
+10.1103/PhysRevB.5.2335 g2m1
+10.1103/PhysRevA.2.2570 m5b1
+10.1103/PhysRevA.2.2570 o3f2
+10.1103/PhysRevB.3.1843 o3p1
+10.1103/PhysRevD.7.2125 d5f3
+10.1103/PhysRevD.7.2125 j4j1
+10.1103/PhysRevD.2.1317 q4z1
+10.1103/PhysRevD.2.1317 t1t3
+10.1103/PhysRevD.2.1315 q4z1
+10.1103/PhysRevD.2.1315 t1t3
+10.1103/RevModPhys.42.409 q5c3
+10.1103/RevModPhys.42.409 w6q1
+10.1103/PhysRevA.1.1404 o4k3
+10.1103/PhysRevA.1.1404 h1m3
+10.1103/PhysRevA.1.1404 v1o1
+10.1103/PhysRevB.2.2543 x2a1
+10.1103/PhysRevB.2.2543 y1d1
+10.1103/PhysRevA.10.717 z4k1
+10.1103/PhysRevD.5.773 e4x3
+10.1103/PhysRevD.5.773 l6m2
+10.1103/PhysRevB.10.1113 x2j1
+10.1103/PhysRevB.10.1113 d2g1
+10.1103/PhysRevB.10.1113 l1k2
+10.1103/PhysRevB.1.506 k4e2
+10.1103/PhysRevB.1.506 v1o1
+10.1103/PhysRevC.5.1410 z4a3
+10.1103/PhysRevC.5.1410 u6o2
+10.1103/PhysRevD.6.3270 t1t3
+10.1103/PhysRevC.3.1466 c3d3
+10.1103/PhysRevC.3.1466 l4s1
+10.1103/PhysRevC.3.1466 f5f1
+10.1103/PhysRevD.1.363 n5a1
+10.1103/PhysRevD.1.363 x2w2
+10.1103/PhysRevC.9.2297 j2a2
+10.1103/PhysRevC.9.2297 k3r1
+10.1103/PhysRevD.10.2255 t6o3
+10.1103/PhysRevD.10.2255 r4o3
+10.1103/PhysRevA.5.1846 j1a3
+10.1103/PhysRevA.5.1846 t4x3
+10.1103/PhysRevB.10.1847 l2a3
+10.1103/PhysRevB.10.1847 u5e2
+10.1103/PhysRevLett.24.524 g5j1
+10.1103/PhysRevLett.29.1005 g4j3
+10.1103/PhysRevLett.29.1005 e1r2
+10.1103/PhysRevB.8.925 u3q3
+10.1103/PhysRevB.8.925 w2p1
+10.1103/PhysRevB.10.4050 l5l2
+10.1103/PhysRevB.10.4050 m5m3
+10.1103/PhysRevB.10.4050 v1o1
+10.1103/PhysRevD.8.249 y2x3
+10.1103/PhysRevD.8.249 f4y2
+10.1103/PhysRevC.2.566 r2y2
+10.1103/PhysRevC.2.566 t5t3
+10.1103/PhysRevC.2.566 t4a2
+10.1103/PhysRevC.9.2454 u3u1
+10.1103/PhysRevC.9.2454 v3p2
+10.1103/PhysRevA.8.2814 z4t3
+10.1103/PhysRevA.8.2814 f1y3
+10.1103/PhysRevD.5.1803 d5f3
+10.1103/PhysRevD.5.1803 u1s1
+10.1103/PhysRevB.8.2362 p6x3
+10.1103/PhysRevB.4.4491 u3q3
+10.1103/PhysRevB.4.4491 x5t2
+10.1103/PhysRevB.2.4723 e5a1
+10.1103/PhysRevB.2.4723 k1z1
+10.1103/PhysRevB.9.5337 u3q3
+10.1103/PhysRevB.9.5337 w2p1
+10.1103/PhysRevB.9.5334 a6u3
+10.1103/PhysRevA.7.34 h6o2
+10.1103/PhysRevA.7.34 f2q1
+10.1103/PhysRevD.2.410 y1w2
+10.1103/PhysRevB.10.3711 z6t1
+10.1103/PhysRevB.10.3711 o5q3
+10.1103/PhysRevC.8.725 c3l1
+10.1103/PhysRevC.8.725 w3c1
+10.1103/PhysRevB.1.1468 g1w3
+10.1103/PhysRevB.1.1468 v1o1
+10.1103/PhysRevC.7.1010 b2e2
+10.1103/PhysRevC.7.1010 m2f1
+10.1103/PhysRevB.3.2929 v2e3
+10.1103/PhysRevB.3.2929 b4k1
+10.1103/PhysRevB.3.2929 r2m2
+10.1103/PhysRevB.3.2929 v1b3
+10.1103/PhysRevD.7.1541 d5f3
+10.1103/PhysRevD.7.1541 v1a3
+10.1103/PhysRevB.9.4993 k5e3
+10.1103/PhysRevB.7.921 b1r2
+10.1103/PhysRevLett.24.1 b2e3
+10.1103/PhysRevLett.24.1 o3d1
+10.1103/PhysRevB.5.3362 g3r1
+10.1103/PhysRevB.5.3362 n2f1
+10.1103/PhysRevA.6.1248 o4k3
+10.1103/PhysRevA.6.1248 h1m3
+10.1103/PhysRevA.6.1248 v1o1
+10.1103/PhysRevC.9.1506 q4g1
+10.1103/PhysRevC.9.1506 u4k1
+10.1103/PhysRevC.9.1506 f5d3
+10.1103/PhysRevC.9.1506 t4s3
+10.1103/PhysRevC.9.1506 d3k1
+10.1103/PhysRevB.5.3369 g5v1
+10.1103/PhysRevB.4.2765 b3y3
+10.1103/PhysRevB.4.2765 r3w3
+10.1103/PhysRevB.5.4987 e3y3
+10.1103/PhysRevB.5.4987 v2k3
+10.1103/PhysRevB.5.4987 e1k1
+10.1103/PhysRevB.6.2978 v2b1
+10.1103/PhysRevB.6.2978 k5g3
+10.1103/PhysRevD.8.1144 x3q2
+10.1103/PhysRevD.8.1144 o3j3
+10.1103/PhysRevB.9.5155 r5u2
+10.1103/PhysRevB.9.5155 u5d1
+10.1103/PhysRevB.9.5155 s3h3
+10.1103/PhysRevB.10.3273 g6d2
+10.1103/PhysRevC.10.2568 y3h2
+10.1103/PhysRevB.9.2513 m6w2
+10.1103/PhysRevB.9.2513 u5g3
+10.1103/PhysRevB.9.2513 g3c1
+10.1103/PhysRevA.9.2761 l6m2
+10.1103/PhysRevD.10.2831 v4f1
+10.1103/PhysRevD.10.2831 f5v1
+10.1103/PhysRevD.10.2831 b6x2
+10.1103/PhysRevB.2.3906 y1y2
+10.1103/PhysRevD.9.1420 a4n2
+10.1103/PhysRevB.4.2111 p6x3
+10.1103/PhysRevB.8.5028 r6u2
+10.1103/PhysRevB.8.5028 f1d1
+10.1103/PhysRevB.8.5028 g1j3
+10.1103/PhysRevB.8.5028 v3s2
+10.1103/PhysRevB.8.5028 z4p1
+10.1103/PhysRevB.1.3993 e1e1
+10.1103/PhysRevB.1.3993 t2e3
+10.1103/PhysRevD.3.3142 u1z1
+10.1103/PhysRevB.7.5153 o3p1
+10.1103/PhysRevB.7.5153 w6z1
+10.1103/PhysRevA.6.1063 d6r2
+10.1103/PhysRevA.6.1063 f5j3
+10.1103/PhysRevA.7.571 w4l1
+10.1103/PhysRevA.7.571 n4y2
+10.1103/PhysRevA.7.571 q1v3
+10.1103/PhysRevD.9.2789 k3w2
+10.1103/PhysRevD.8.1863 z3r3
+10.1103/PhysRevD.8.1863 f4x3
+10.1103/PhysRevD.10.366 p5h3
+10.1103/PhysRevD.10.366 t1t3
+10.1103/PhysRevB.3.1649 x4v2
+10.1103/PhysRevB.3.1649 r6n2
+10.1103/PhysRevB.6.1399 t5z3
+10.1103/PhysRevB.6.1399 u4q1
+10.1103/PhysRevB.4.3901 t3q2
+10.1103/PhysRevB.4.3901 n1w2
+10.1103/PhysRevA.7.907 q4a2
+10.1103/PhysRevLett.25.1125 m2m3
+10.1103/PhysRevLett.25.1125 n2t2
+10.1103/PhysRevLett.25.1125 l5x1
+10.1103/PhysRevLett.26.737 s2w2
+10.1103/PhysRevLett.26.737 q1v3
+10.1103/PhysRevD.7.1491 a1c3
+10.1103/PhysRevD.7.1491 x3q2
+10.1103/PhysRevA.4.2413 v2b1
+10.1103/PhysRevB.8.676 s4z3
+10.1103/PhysRevB.8.676 e5d2
+10.1103/PhysRevB.9.1958 o2o1
+10.1103/PhysRevB.9.1958 e2l2
+10.1103/PhysRevD.1.200 f4x3
+10.1103/PhysRevD.1.200 h6t1
+10.1103/PhysRevA.8.2727 d3c2
+10.1103/PhysRevC.7.103 y2f3
+10.1103/PhysRevC.8.282 t6c1
+10.1103/PhysRevC.8.282 z1f2
+10.1103/PhysRevD.8.1815 k3x2
+10.1103/PhysRevC.7.74 u5r3
+10.1103/PhysRevC.7.74 k1v2
+10.1103/PhysRevB.7.868 h5e2
+10.1103/PhysRevB.7.868 o4f3
+10.1103/PhysRevD.4.2094 j4j1
+10.1103/PhysRevB.8.5532 v5g3
+10.1103/PhysRevB.8.5532 g1w3
+10.1103/PhysRevC.10.774 r6j2
+10.1103/PhysRevC.10.774 p5l1
+10.1103/PhysRevB.8.693 s6q1
+10.1103/PhysRevB.8.693 o3p1
+10.1103/RevModPhys.43.679 q5c3
+10.1103/RevModPhys.43.679 w6q1
+10.1103/PhysRevB.9.3313 q4z3
+10.1103/PhysRevB.10.4014 x6a3
+10.1103/PhysRevC.8.188 f6y2
+10.1103/PhysRevC.8.188 l3b3
+10.1103/PhysRevB.8.5967 e1c3
+10.1103/PhysRevA.1.337 v1o1
+10.1103/PhysRevA.1.337 h1m3
+10.1103/PhysRevA.1.337 o4k3
+10.1103/PhysRevLett.30.906 l2n1
+10.1103/PhysRevLett.30.906 h5z1
+10.1103/PhysRevLett.30.906 a3v2
+10.1103/PhysRevLett.30.906 b5t1
+10.1103/PhysRevB.6.4013 u3q3
+10.1103/PhysRevB.6.4013 w1f1
+10.1103/PhysRevB.8.593 j6j1
+10.1103/PhysRevB.8.593 e2l2
+10.1103/PhysRevB.4.4598 g3r1
+10.1103/PhysRevB.4.4598 n2f1
+10.1103/PhysRevC.3.247 y3w3
+10.1103/PhysRevC.3.247 z5e3
+10.1103/PhysRevC.3.247 f6r2
+10.1103/PhysRevB.4.4363 b4t1
+10.1103/PhysRevB.4.4363 v1o1
+10.1103/PhysRevD.5.1370 e4y2
+10.1103/PhysRevD.5.1370 g1t2
+10.1103/PhysRevA.5.746 v1o1
+10.1103/PhysRevA.5.746 h1m3
+10.1103/PhysRevA.5.746 o4k3
+10.1103/PhysRevD.10.988 b1k2
+10.1103/PhysRevB.7.1016 r6l1
+10.1103/PhysRevB.2.4971 l2u1
+10.1103/PhysRevD.5.2896 m3w1
+10.1103/PhysRevA.8.236 v2t3
+10.1103/PhysRevA.8.236 x4e3
+10.1103/PhysRevA.8.236 q1v3
+10.1103/PhysRevB.10.1447 z4k1
+10.1103/PhysRevD.1.338 d5f3
+10.1103/PhysRevD.1.338 a4n2
+10.1103/PhysRevB.6.2026 u3q3
+10.1103/PhysRevB.6.2026 a1p1
+10.1103/PhysRevC.4.1073 d4d3
+10.1103/PhysRevC.4.1073 b2e2
+10.1103/PhysRevC.4.944 s4j1
+10.1103/PhysRevC.4.944 j6s2
+10.1103/PhysRevLett.28.1136 j2q1
+10.1103/PhysRevLett.28.1136 v1r1
+10.1103/PhysRevLett.28.1136 e4r2
+10.1103/PhysRevLett.25.386 l1p1
+10.1103/PhysRevLett.25.386 r6v3
+10.1103/PhysRevLett.25.386 y4f2
+10.1103/PhysRevLett.28.1133 g1j3
+10.1103/PhysRevLett.28.1133 k4o3
+10.1103/PhysRevLett.28.1133 r6u2
+10.1103/PhysRevLett.28.1133 z4p1
+10.1103/PhysRevLett.28.1133 f1d1
+10.1103/PhysRevLett.28.1133 v3s2
+10.1103/PhysRevA.8.3259 p4j1
+10.1103/PhysRevA.7.42 v4f1
+10.1103/PhysRevA.7.42 b6x2
+10.1103/PhysRevD.2.357 v1b1
+10.1103/PhysRevB.4.4623 o3p1
+10.1103/PhysRevB.4.4623 w6z1
+10.1103/PhysRevD.10.2869 d5f3
+10.1103/PhysRevD.10.2869 f2d1
+10.1103/PhysRevD.10.2869 d6s1
+10.1103/PhysRevD.8.3233 z2s2
+10.1103/PhysRevD.7.3590 m3b2
+10.1103/PhysRevD.7.3590 c4a1
+10.1103/PhysRevC.4.2165 l3x3
+10.1103/PhysRevC.4.2165 y4f2
+10.1103/PhysRevC.4.2165 l6h1
+10.1103/PhysRevC.4.2165 r6v3
+10.1103/PhysRevC.4.2165 l1p1
+10.1103/PhysRevC.4.2165 g2m2
+10.1103/PhysRevC.2.2106 d4d3
+10.1103/PhysRevC.2.2106 r6q2
+10.1103/PhysRevB.9.4673 c2c3
+10.1103/PhysRevB.9.4673 c6k1
+10.1103/PhysRevD.1.3459 j1q3
+10.1103/PhysRevD.1.3459 u1s1
+10.1103/PhysRevB.1.642 u3q3
+10.1103/PhysRevB.1.642 k5d1
+10.1103/PhysRevB.1.642 u4z2
+10.1103/PhysRevB.6.4879 n2z2
+10.1103/PhysRevB.6.4879 e1e1
+10.1103/PhysRevB.6.4879 b2r2
+10.1103/PhysRevB.5.2130 o3p1
+10.1103/PhysRevB.5.2130 w6z1
+10.1103/PhysRevD.9.2068 y2x3
+10.1103/PhysRevD.9.2068 f4y2
+10.1103/PhysRevC.6.572 z1q2
+10.1103/PhysRevC.6.572 k2r3
+10.1103/PhysRevA.1.33 v4f1
+10.1103/PhysRevB.4.2757 g3r1
+10.1103/PhysRevB.4.2757 n2f1
+10.1103/PhysRevA.6.850 k4p3
+10.1103/PhysRevA.6.850 e5b3
+10.1103/PhysRevA.6.850 p3q3
+10.1103/PhysRevB.9.3609 x6u3
+10.1103/PhysRevB.9.3609 e2l2
+10.1103/PhysRevA.8.849 h1q2
+10.1103/PhysRevA.8.849 f5j3
+10.1103/PhysRevC.2.2444 s5p3
+10.1103/PhysRevD.3.1165 k6r3
+10.1103/PhysRevD.2.1952 k6r3
+10.1103/PhysRevD.2.1952 w4v1
+10.1103/PhysRevD.2.1955 k6r3
+10.1103/PhysRevC.1.895 d5f3
+10.1103/PhysRevC.1.895 a3f1
+10.1103/PhysRevB.10.2764 v2b1
+10.1103/PhysRevB.10.2764 k5g3
+10.1103/PhysRevC.7.1166 t4w1
+10.1103/PhysRevC.7.1166 r2y2
+10.1103/PhysRevC.7.1166 t5t3
+10.1103/PhysRevC.7.1166 t4a2
+10.1103/PhysRevD.8.3626 t6l3
+10.1103/PhysRevD.8.3626 r2e3
+10.1103/PhysRevD.8.3626 p2g1
+10.1103/PhysRevB.5.3702 e4b2
+10.1103/PhysRevD.6.2649 d2f1
+10.1103/PhysRevD.6.2649 w5p2
+10.1103/PhysRevD.8.1516 h1e1
+10.1103/PhysRevB.3.3901 m5m3
+10.1103/PhysRevB.3.3901 v1o1
+10.1103/PhysRevD.5.1068 n1v1
+10.1103/PhysRevD.5.1068 a1s1
+10.1103/PhysRevD.5.1068 r6g3
+10.1103/PhysRevD.5.1068 t2t2
+10.1103/PhysRevD.5.1068 e3h2
+10.1103/PhysRevC.6.476 l5y2
+10.1103/PhysRevA.9.2167 l4k1
+10.1103/PhysRevA.9.2167 t3w1
+10.1103/PhysRevA.9.2167 p6s3
+10.1103/PhysRevC.7.1785 l3b3
+10.1103/PhysRevB.2.3415 y1b1
+10.1103/PhysRevB.2.3415 t6y2
+10.1103/PhysRevD.2.2955 r4o3
+10.1103/PhysRevC.7.1864 y3h2
+10.1103/PhysRevD.5.694 e4x3
+10.1103/PhysRevD.5.694 l6m2
+10.1103/PhysRevB.9.3517 s2l2
+10.1103/PhysRevB.9.3517 k5j3
+10.1103/PhysRevD.7.1018 f6v1
+10.1103/PhysRevB.10.2857 p6x3
+10.1103/PhysRevA.5.1755 b2e3
+10.1103/PhysRevA.5.1755 q3q2
+10.1103/PhysRevA.5.1755 o3d1
+10.1103/PhysRevC.7.350 z1o3
+10.1103/PhysRevC.7.350 q4y1
+10.1103/PhysRevC.7.216 d4d3
+10.1103/PhysRevC.2.1191 w6e1
+10.1103/PhysRevC.2.1191 f5f1
+10.1103/PhysRevC.1.1498 v2g1
+10.1103/PhysRevC.1.1498 w4r2
+10.1103/PhysRevC.1.1498 s3m3
+10.1103/PhysRevD.1.1445 s2f3
+10.1103/PhysRevD.1.1445 r2e3
+10.1103/PhysRevD.1.1445 e1z2
+10.1103/PhysRevD.1.1445 n3k3
+10.1103/PhysRevB.6.3160 u3q3
+10.1103/PhysRevB.6.3160 w1f1
+10.1103/PhysRevD.8.258 r2o2
+10.1103/PhysRevD.8.258 k3w2
+10.1103/PhysRevD.8.258 b2g2
+10.1103/PhysRevB.3.331 u3q3
+10.1103/PhysRevB.3.331 k5d1
+10.1103/PhysRevC.6.2304 e4c1
+10.1103/PhysRevC.6.2304 v4r2
+10.1103/PhysRevB.3.4391 a4j1
+10.1103/PhysRevB.3.4391 m2n2
+10.1103/PhysRevD.7.1936 l4k1
+10.1103/PhysRevD.7.1936 p6s3
+10.1103/PhysRevD.2.2414 w1b3
+10.1103/PhysRevB.10.3412 w4d2
+10.1103/PhysRevB.10.3412 w6h1
+10.1103/PhysRevD.9.844 y1w2
+10.1103/PhysRevD.9.844 f3e3
+10.1103/PhysRevB.6.2414 n2z2
+10.1103/PhysRevB.6.2414 e1e1
+10.1103/PhysRevB.6.2414 b2r2
+10.1103/PhysRevD.10.2384 n2t2
+10.1103/PhysRevD.7.284 n1b2
+10.1103/PhysRevD.3.729 s1s1
+10.1103/PhysRevD.3.729 c5o1
+10.1103/PhysRevD.3.729 v6y1
+10.1103/PhysRevD.3.729 r2e3
+10.1103/PhysRevB.7.4813 k1z1
+10.1103/PhysRevB.2.4288 j2x3
+10.1103/PhysRevB.2.4288 e2l2
+10.1103/PhysRevA.8.697 q4a2
+10.1103/PhysRevA.8.1630 o3f2
+10.1103/PhysRevA.8.1630 y3k1
+10.1103/PhysRevLett.28.583 b2e3
+10.1103/PhysRevLett.28.583 q3q2
+10.1103/PhysRevLett.28.583 o3d1
+10.1103/PhysRevB.9.3935 r6l1
+10.1103/PhysRevB.9.3935 q4a1
+10.1103/PhysRevB.10.775 g3f2
+10.1103/PhysRevB.10.775 u2l1
+10.1103/PhysRevB.10.775 t2q3
+10.1103/PhysRevD.10.1655 l6j3
+10.1103/PhysRevD.10.1655 v1b1
+10.1103/PhysRevD.2.941 z3r3
+10.1103/PhysRevD.2.941 f4x3
+10.1103/PhysRevB.10.779 x6u3
+10.1103/PhysRevB.10.779 o2o1
+10.1103/PhysRevB.10.779 e2l2
+10.1103/PhysRevA.9.1021 l4k1
+10.1103/PhysRevA.9.1021 p6s3
+10.1103/PhysRevD.7.1587 j2c2
+10.1103/PhysRevD.7.1587 d2u2
+10.1103/PhysRevD.7.1587 y1w2
+10.1103/PhysRevD.7.1587 f3e3
+10.1103/PhysRevD.6.3641 a4y1
+10.1103/PhysRevD.6.3641 l6m2
+10.1103/PhysRevB.10.4801 o4g1
+10.1103/PhysRevB.10.4801 k6o1
+10.1103/PhysRevB.10.4801 h3j1
+10.1103/PhysRevD.1.571 t5h2
+10.1103/RevModPhys.45.22 x1x1
+10.1103/PhysRevD.4.2768 q5x3
+10.1103/PhysRevD.4.2768 l6m2
+10.1103/PhysRevD.5.2835 v5o2
+10.1103/PhysRevD.5.2835 n5a1
+10.1103/PhysRevC.2.110 m3v3
+10.1103/PhysRevLett.28.1005 z2s2
+10.1103/PhysRevB.2.4741 g1w1
+10.1103/PhysRevA.9.2128 v2b1
+10.1103/PhysRevA.9.2128 y4f3
+10.1103/PhysRevA.9.2128 d3n3
+10.1103/PhysRevC.9.1515 r6j2
+10.1103/PhysRevC.9.1515 f2b2
+10.1103/PhysRevC.9.1515 b6k1
+10.1103/PhysRevC.9.1515 f2k3
+10.1103/PhysRevB.8.168 r6l1
+10.1103/PhysRevB.8.168 q4a1
+10.1103/PhysRevD.2.2125 y1w2
+10.1103/PhysRevB.4.498 u3q3
+10.1103/PhysRevB.4.498 v3p3
+10.1103/PhysRevC.2.2278 y2v3
+10.1103/PhysRevC.2.2278 e4v3
+10.1103/PhysRevC.2.2278 x4w2
+10.1103/PhysRevB.9.5144 g1w1
+10.1103/PhysRevB.2.2756 k1g3
+10.1103/PhysRevB.2.2756 j4h2
+10.1103/PhysRevB.2.2756 q6t2
+10.1103/PhysRevD.1.118 l6m2
+10.1103/PhysRevB.9.2558 m2r2
+10.1103/PhysRevB.9.2558 l2b2
+10.1103/PhysRevLett.24.910 d4d3
+10.1103/PhysRevLett.24.910 b2e2
+10.1103/PhysRevB.4.1005 a2g1
+10.1103/PhysRevB.4.1005 y1d1
+10.1103/PhysRevD.10.3691 y2x3
+10.1103/PhysRevD.10.3691 b1d1
+10.1103/PhysRevC.10.418 r6q2
+10.1103/PhysRevB.1.776 u3q3
+10.1103/PhysRevB.1.776 d3t2
+10.1103/PhysRevA.4.1873 v1o1
+10.1103/PhysRevA.4.1873 h1m3
+10.1103/PhysRevA.4.1873 o4k3
+10.1103/PhysRevD.3.3213 d2f1
+10.1103/PhysRevD.3.3213 w5p2
+10.1103/PhysRevA.8.3227 q4a2
+10.1103/PhysRevC.1.2000 g3p3
+10.1103/PhysRevD.6.1648 p2g1
+10.1103/PhysRevB.8.3056 o3p1
+10.1103/PhysRevB.8.3056 w6z1
+10.1103/PhysRevB.8.3051 u3q3
+10.1103/PhysRevB.8.3051 t4t2
+10.1103/PhysRevD.9.288 y2x3
+10.1103/PhysRevD.9.288 b1d1
+10.1103/PhysRevC.3.1936 d4d3
+10.1103/PhysRevC.3.1936 b2e2
+10.1103/PhysRevC.3.1936 n2k3
+10.1103/PhysRevB.8.2975 f1d1
+10.1103/PhysRevB.8.2975 n5k2
+10.1103/PhysRevB.8.2975 v5u3
+10.1103/PhysRevA.9.1733 d1m2
+10.1103/PhysRevA.9.1733 a5e3
+10.1103/PhysRevB.7.2626 u3q3
+10.1103/PhysRevB.7.2626 j3p2
+10.1103/PhysRevD.10.3070 k3w2
+10.1103/PhysRevD.10.3070 m6s1
+10.1103/PhysRevD.10.3070 r2o2
+10.1103/PhysRevD.10.2186 k6r3
+10.1103/PhysRevC.5.153 y3h2
+10.1103/PhysRevD.10.3076 r6y3
+10.1103/PhysRevD.10.3076 t5k1
+10.1103/PhysRevD.10.3076 j5o1
+10.1103/PhysRevC.9.1965 f2u2
+10.1103/PhysRevC.9.1965 v3p2
+10.1103/PhysRevD.9.839 b2y3
+10.1103/PhysRevD.9.839 c5o1
+10.1103/PhysRevA.9.725 q4a2
+10.1103/PhysRevA.9.725 f2q1
+10.1103/PhysRevC.9.2076 l6b2
+10.1103/PhysRevC.9.2076 v3p2
+10.1103/PhysRevD.1.2945 o2x1
+10.1103/PhysRevD.1.2945 g1t2
+10.1103/PhysRevA.5.1558 j1a3
+10.1103/PhysRevD.8.1808 r2e3
+10.1103/PhysRevD.8.1808 e4y2
+10.1103/PhysRevD.8.1808 g1t2
+10.1103/PhysRevC.8.2115 n4m1
+10.1103/PhysRevC.8.2115 o2u1
+10.1103/PhysRevB.1.4635 o4f3
+10.1103/PhysRevB.1.4635 h4w2
+10.1103/PhysRevA.7.891 c2b3
+10.1103/PhysRevD.10.298 f2z2
+10.1103/PhysRevD.10.298 v1k2
+10.1103/PhysRevD.10.298 s5c2
+10.1103/PhysRevLett.27.259 r5l2
+10.1103/PhysRevLett.27.259 c1a2
+10.1103/PhysRevA.6.1214 a1d2
+10.1103/PhysRevA.6.1214 p6e2
+10.1103/PhysRevA.6.1214 e3j2
+10.1103/PhysRevB.7.4640 t2q3
+10.1103/PhysRevB.7.4640 s5d3
+10.1103/PhysRevB.5.1535 u3q3
+10.1103/PhysRevB.5.1535 v3p3
+10.1103/PhysRevB.3.3574 u3q3
+10.1103/PhysRevB.3.3574 h1w1
+10.1103/PhysRevB.3.3574 k5d1
+10.1103/PhysRevB.7.5316 u3q3
+10.1103/PhysRevB.7.5316 w2p1
+10.1103/PhysRevB.10.4485 n5r3
+10.1103/PhysRevB.10.4485 y1d1
+10.1103/PhysRevD.7.3670 b3w1
+10.1103/PhysRevD.7.3670 x3q2
+10.1103/PhysRevB.4.1220 t5z3
+10.1103/PhysRevB.4.1220 u4q1
+10.1103/PhysRevD.5.2310 u4d3
+10.1103/PhysRevC.8.1149 h6g2
+10.1103/PhysRevC.8.1149 l3a2
+10.1103/PhysRevD.5.496 z3r3
+10.1103/PhysRevD.5.496 f4x3
+10.1103/PhysRevB.8.3305 m1h2
+10.1103/PhysRevB.8.3305 p6x3
+10.1103/PhysRevB.8.3305 y4b2
+10.1103/PhysRevA.5.2122 w4l1
+10.1103/PhysRevA.5.2122 q1v3
+10.1103/PhysRevB.3.673 h4a3
+10.1103/PhysRevB.3.673 h5d1
+10.1103/PhysRevB.3.673 g1j3
+10.1103/PhysRevB.5.3308 o3p1
+10.1103/PhysRevB.5.3308 g2m1
+10.1103/PhysRevB.3.1505 l3w3
+10.1103/PhysRevA.4.1025 a2a3
+10.1103/PhysRevD.9.3513 y2x3
+10.1103/PhysRevC.3.785 z4a3
+10.1103/PhysRevC.3.785 u6o2
+10.1103/PhysRevB.3.2087 o5l1
+10.1103/PhysRevB.3.2087 n6m3
+10.1103/PhysRevB.8.4053 h2s3
+10.1103/PhysRevB.8.4053 y6c2
+10.1103/PhysRevB.8.4053 n5v1
+10.1103/PhysRevB.8.4053 r2m2
+10.1103/PhysRevB.8.4053 v1b3
+10.1103/PhysRevD.4.1916 d2f1
+10.1103/PhysRevD.4.1916 w5p2
+10.1103/PhysRevC.3.254 y3w3
+10.1103/PhysRevC.3.254 z5e3
+10.1103/PhysRevC.3.254 f6r2
+10.1103/PhysRevB.4.1306 u3q3
+10.1103/PhysRevB.4.1306 v3p3
+10.1103/PhysRevB.4.1306 x5t2
+10.1103/PhysRevA.7.586 v1o1
+10.1103/PhysRevA.7.586 h1m3
+10.1103/PhysRevA.7.586 o4k3
+10.1103/PhysRevB.9.4362 s6q1
+10.1103/PhysRevB.9.4362 o3p1
+10.1103/PhysRevC.3.2095 y2f3
+10.1103/PhysRevB.5.4143 u1t3
+10.1103/PhysRevB.5.4143 t2q3
+10.1103/PhysRevB.5.4143 s5d3
+10.1103/PhysRevLett.29.272 n2z2
+10.1103/PhysRevLett.29.272 z6t1
+10.1103/PhysRevD.1.377 a6u2
+10.1103/PhysRevD.1.377 c5t2
+10.1103/PhysRevD.1.377 q5z3
+10.1103/PhysRevA.1.497 k2t3
+10.1103/PhysRevA.1.497 h3e3
+10.1103/PhysRevB.7.1362 y3y3
+10.1103/PhysRevB.7.1362 b4p2
+10.1103/PhysRevA.5.392 n4c3
+10.1103/PhysRevA.5.392 l6m2
+10.1103/PhysRevB.2.3021 k1z1
+10.1103/PhysRevD.4.3759 e4m1
+10.1103/PhysRevD.7.2884 r2e3
+10.1103/PhysRevD.7.2884 a2m3
+10.1103/PhysRevD.7.2884 e4y2
+10.1103/PhysRevB.4.1794 o1h1
+10.1103/PhysRevB.4.1794 y1y2
+10.1103/PhysRevD.3.266 y2p2
+10.1103/PhysRevD.3.266 l6m2
+10.1103/PhysRevB.4.4636 o4f3
+10.1103/PhysRevB.4.4636 h4w2
+10.1103/PhysRevB.9.2539 s6q1
+10.1103/PhysRevB.9.2539 o3p1
+10.1103/PhysRevC.7.1294 l6b2
+10.1103/PhysRevC.7.1294 v3p2
+10.1103/PhysRevC.10.425 c1l3
+10.1103/PhysRevC.10.425 w1d2
+10.1103/PhysRevD.7.3586 a5a3
+10.1103/PhysRevC.5.1422 l6b2
+10.1103/PhysRevC.5.1422 v3p2
+10.1103/PhysRevD.4.1409 d5f3
+10.1103/PhysRevD.4.1409 u1s1
+10.1103/PhysRevC.4.652 l5y2
+10.1103/PhysRevC.4.652 m3v3
+10.1103/PhysRevD.10.308 y2x3
+10.1103/PhysRevD.10.308 o3y2
+10.1103/PhysRevB.3.3597 c3a1
+10.1103/PhysRevB.3.3597 n6f1
+10.1103/PhysRevB.3.3597 k6k3
+10.1103/PhysRevA.3.234 o6g1
+10.1103/PhysRevB.3.2619 n2z2
+10.1103/PhysRevB.3.2619 e1e1
+10.1103/PhysRevB.3.2619 b2r2
+10.1103/PhysRevD.6.1957 x6k2
+10.1103/PhysRevB.4.4647 u3q3
+10.1103/PhysRevB.4.4647 w1f1
+10.1103/PhysRevC.5.1270 a3g2
+10.1103/PhysRevC.5.1270 q3f3
+10.1103/PhysRevC.5.1270 j2t3
+10.1103/PhysRevD.9.1706 k3x2
+10.1103/PhysRevD.9.1706 s3m2
+10.1103/PhysRevC.8.2277 g6t1
+10.1103/PhysRevC.8.2277 b4p2
+10.1103/PhysRevC.8.2277 k5v1
+10.1103/PhysRevC.8.2277 d6l3
+10.1103/PhysRevC.8.2277 d6n3
+10.1103/PhysRevC.8.2277 a4e3
+10.1103/PhysRevB.4.2746 g2q3
+10.1103/PhysRevB.4.2746 p6b2
+10.1103/PhysRevB.4.2741 s4x2
+10.1103/PhysRevB.4.2741 k3v2
+10.1103/PhysRevD.9.2056 k6r3
+10.1103/PhysRevC.4.990 x3g1
+10.1103/PhysRevC.4.990 g3d1
+10.1103/PhysRevB.2.3249 e1e1
+10.1103/PhysRevB.2.3249 t2e3
+10.1103/PhysRevD.1.649 g5q2
+10.1103/PhysRevD.1.649 z4v2
+10.1103/PhysRevLett.32.703 z4k1
+10.1103/PhysRevD.1.166 q4z1
+10.1103/PhysRevD.1.166 t1t3
+10.1103/PhysRevB.1.2207 a2y2
+10.1103/PhysRevA.6.125 h1u2
+10.1103/PhysRevA.6.125 d6n2
+10.1103/PhysRevB.5.2215 u3q3
+10.1103/PhysRevB.5.2215 x5t2
+10.1103/PhysRevD.6.1153 z4v2
+10.1103/PhysRevB.9.2073 x5x1
+10.1103/PhysRevB.9.2073 c5u1
+10.1103/PhysRevD.3.3133 u1z1
+10.1103/PhysRevB.9.3113 n3z2
+10.1103/PhysRevB.7.1128 p5w2
+10.1103/PhysRevB.2.248 o5l1
+10.1103/PhysRevB.2.248 n6m3
+10.1103/PhysRevD.9.63 o2v1
+10.1103/PhysRevD.9.63 m3z3
+10.1103/PhysRevC.5.911 x1c1
+10.1103/PhysRevC.5.911 b3a1
+10.1103/PhysRevB.7.3131 d6d2
+10.1103/PhysRevB.7.3131 e1r2
+10.1103/PhysRevB.8.1503 s4z3
+10.1103/PhysRevB.8.1503 g6l1
+10.1103/PhysRevD.5.610 y2p2
+10.1103/PhysRevB.6.3053 u3q3
+10.1103/PhysRevB.6.3053 h6f3
+10.1103/PhysRevB.6.3053 w1f1
+10.1103/PhysRevA.5.1565 k4p3
+10.1103/PhysRevA.5.1565 e5b3
+10.1103/PhysRevA.5.1565 p3q3
+10.1103/PhysRevA.5.1564 m5k3
+10.1103/PhysRevA.5.1564 t2q3
+10.1103/PhysRevD.10.3044 f4e2
+10.1103/PhysRevD.10.3044 p4j1
+10.1103/PhysRevB.8.4057 h2s3
+10.1103/PhysRevB.8.4057 y6c2
+10.1103/PhysRevB.8.4057 n5v1
+10.1103/PhysRevB.8.4057 r2m2
+10.1103/PhysRevB.8.4057 v1b3
+10.1103/PhysRevC.10.1189 b2e2
+10.1103/PhysRevC.10.1189 k3v1
+10.1103/PhysRevC.1.35 d5f3
+10.1103/PhysRevC.1.35 p5y1
+10.1103/PhysRevA.9.2569 z4t3
+10.1103/PhysRevA.9.2569 j6h3
+10.1103/PhysRevB.5.1993 q5c3
+10.1103/PhysRevB.5.1993 p5w2
+10.1103/PhysRevB.10.219 u3q3
+10.1103/PhysRevB.10.219 h3m2
+10.1103/PhysRevLett.27.693 l6m2
+10.1103/PhysRevB.8.3054 l3w3
+10.1103/PhysRevB.2.1411 m5m3
+10.1103/PhysRevB.2.1411 v1o1
+10.1103/PhysRevC.6.34 y6e2
+10.1103/PhysRevB.6.4081 y1d1
+10.1103/PhysRevA.1.1696 l4k1
+10.1103/PhysRevA.1.1696 p6s3
+10.1103/PhysRevB.5.3488 j2v1
+10.1103/PhysRevB.5.3488 g1j3
+10.1103/PhysRevB.5.3165 u3q3
+10.1103/PhysRevB.5.3165 w2p1
+10.1103/PhysRevB.5.3160 g1f1
+10.1103/PhysRevB.5.3160 x6u2
+10.1103/PhysRevLett.27.1571 j2q1
+10.1103/PhysRevLett.27.1571 u5g3
+10.1103/PhysRevLett.27.1571 g3c1
+10.1103/PhysRevB.9.3630 o3p1
+10.1103/PhysRevB.9.3630 w6z1
+10.1103/PhysRevC.6.321 b6k1
+10.1103/PhysRevC.6.321 n6m2
+10.1103/PhysRevC.6.321 f2k3
+10.1103/PhysRevC.6.321 k2z2
+10.1103/PhysRevLett.24.28 v5y3
+10.1103/PhysRevLett.24.28 x2o1
+10.1103/PhysRevB.6.2178 o3p1
+10.1103/PhysRevB.6.2178 w6z1
+10.1103/PhysRevC.6.1394 b6k1
+10.1103/PhysRevC.6.1394 f2k3
+10.1103/PhysRevB.7.5000 v3t1
+10.1103/PhysRevB.7.5000 r3g2
+10.1103/PhysRevB.1.809 q3h2
+10.1103/PhysRevC.7.874 b6b3
+10.1103/PhysRevC.7.874 f5f1
+10.1103/PhysRevD.5.1824 j1q3
+10.1103/PhysRevD.5.1824 a3f1
+10.1103/PhysRevB.6.2285 u5g3
+10.1103/PhysRevB.6.2285 g3c1
+10.1103/PhysRevLett.26.530 v5y3
+10.1103/PhysRevD.3.1378 c5t2
+10.1103/PhysRevD.3.1378 q5z3
+10.1103/PhysRevB.1.3426 e1e1
+10.1103/PhysRevB.1.3426 c1a2
+10.1103/PhysRevB.1.3426 b2g2
+10.1103/PhysRevB.7.1850 p6x3
+10.1103/PhysRevB.7.1850 x6a3
+10.1103/PhysRevD.2.1281 j2j1
+10.1103/PhysRevB.9.4405 l3w3
+10.1103/PhysRevB.4.1382 x5x1
+10.1103/PhysRevD.2.2728 e4x3
+10.1103/PhysRevD.2.2728 l6m2
+10.1103/PhysRevD.10.2191 k6r3
+10.1103/PhysRevB.2.4053 w2p3
+10.1103/PhysRevA.8.2425 z4t3
+10.1103/PhysRevA.8.2425 j6h3
+10.1103/PhysRevA.5.918 z1o2
+10.1103/PhysRevA.5.918 u5d3
+10.1103/PhysRevA.5.918 u1t3
+10.1103/PhysRevA.7.109 v1o1
+10.1103/PhysRevA.7.109 h1m3
+10.1103/PhysRevA.7.109 o4k3
+10.1103/PhysRevD.8.1940 c2b3
+10.1103/PhysRevB.4.4643 l3w3
+10.1103/PhysRevB.4.4643 r5y2
+10.1103/PhysRevA.6.1869 d3c2
+10.1103/PhysRevD.9.2547 d5f3
+10.1103/PhysRevD.9.2547 x5e1
+10.1103/PhysRevA.10.1162 l6t3
+10.1103/PhysRevA.10.1162 h1u2
