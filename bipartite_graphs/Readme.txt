@@ -1,0 +1,6 @@
+This folder has bipartite graphs as edgelist. The author names have been given a Id example 'a1b2' etc, 
+while the papers have been represented by their Paper Id as in the APS dataset.
+
+left column - paper nodes (top nodes in the bipartite graph)
+
+right column - author nodes (bottom nodes in the bipartite graph)
